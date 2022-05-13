@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&family=Raleway:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0; 
+    border: none; 
+}
+
+body {
+    font-family: Barlow, sans-serif;
+    font-weight: 200;
+    color: #3a3a3a;
+}
+
+/* headings */
+
+h1, h2 {
+    font-family: Raleway, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+}
