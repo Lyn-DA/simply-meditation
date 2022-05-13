@@ -57,3 +57,42 @@ h1, h2, h3 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* hero image */
+
+#hero-whole {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#text-overlay, #text-overlay h2 {
+    color: rgb(53, 16, 1);
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image.jpg') no-repeat center center;
+}
+
+#text-overlay {
+    font-size: 275%;
+    font-family: Barlow, sans-serif;
+    text-transform: none;
+    text-align: center;
+    letter-spacing: 4px;
+
+    width: 30px;
+    height: 100px;
+
+    padding-top: 20px;
+    padding-left: 10px;
+
+    background-color: rgba(109, 41, 2, 0.3);
+
+    top: 380px;
+    left: 100px;
+
+    position: absolute;
+}
