@@ -14,9 +14,46 @@ body {
 
 /* headings */
 
-h1, h2 {
+h1, h2, h3 {
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #252525;
+}
+
+/* logo and menu bar */
+
+#logo {
+    height: 200px;
+    width: 20%;
+    float: left;
+    margin-left: 15px;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu {
+    line-height: 125px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
