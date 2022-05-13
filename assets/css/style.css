@@ -31,7 +31,8 @@ h1, h2, h3 {
 }
 
 #menu {
-    font-family: Amatic SC;
+    font-family: Truculenta, sans-serif;
+    text-transform: uppercase;
     font-size: 110%;
     letter-spacing: 4px;
 }
@@ -43,7 +44,7 @@ h1, h2, h3 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 50px;
+    margin-right: 75px;
 }
 
 #menu a {
@@ -102,18 +103,56 @@ h1, h2, h3 {
 #why-us-heading {
     text-align: left;
     font-size: 275%;
+    margin-top: 100px;
+    margin-left: 150px;
 }
 
-#why-us {
+#meditation-centre {
+    text-align: left;
+    font-size: 150%;
+    text-transform: capitalize;
+    margin-left: 165px;
+}
+
+#why-us-text {
     border-left: 1px solid #291b0e;
     height: 40%;
-    margin: 50px 0;
+    margin-left: 150px;
     padding-left: 5%;
 }
 
-.right-image {
-    height: 300px;
-    width: 300px;
-    padding: 30%;
+#why-us-text p {
+    font-family: Quicksand, sans-serif;
+    font-size: 100%;
+    text-align: left;
+    text-transform: capitalize;
+    margin-top: 25px;
+    margin-right: 750px;
+}
+
+#visual-container {
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #291b0e;
+    border-width: 1px;
+    border-radius: 5%;
     margin: 0 auto;
+}
+
+#visual-image-bg {
+    background: url('../images/why\ meditate\ with\ us.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 5%;
+}
+
+#visual-container, #visual-image {
+    position: absolute;
+    right: 150px;
+    top: 150%;
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-right: 10px;
 }
