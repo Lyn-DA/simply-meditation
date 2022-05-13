@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Barlow+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Quicksand:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Amatic SC, sans-serif;
+    font-family: Quicksand, sans-serif;
     font-weight: 200;
     color: #291b0e;
 }
@@ -15,7 +15,7 @@ body {
 /* headings */
 
 h1, h2, h3 {
-    font-family: Barlow Condensed, sans-serif;
+    font-family: Amatic SC, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #221b12;
