@@ -9,7 +9,7 @@
 body {
     font-family: Amatic SC, sans-serif;
     font-weight: 200;
-    color: #3a3a3a;
+    color: #291b0e;
 }
 
 /* headings */
@@ -18,7 +18,7 @@ h1, h2, h3 {
     font-family: Barlow Condensed, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: #221b12;
 }
 
 /* logo and menu bar */
@@ -42,7 +42,7 @@ h1, h2, h3 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 50px;
 }
 
 #menu a {
@@ -67,7 +67,7 @@ h1, h2, h3 {
 }
 
 #text-overlay, #text-overlay h2 {
-    color: rgb(53, 16, 1);
+    color: rgb(58, 27, 1);
 }
 
 #hero-image {
@@ -78,8 +78,7 @@ h1, h2, h3 {
 
 #text-overlay {
     font-size: 275%;
-    font-family: Raleway, sans-serif;
-    text-transform: none;
+    font-family: Amatic SC, sans-serif;
     text-align: left;
     letter-spacing: 4px;
 
@@ -89,7 +88,7 @@ h1, h2, h3 {
     padding-top: 20px;
     padding-left: 10px;
 
-    background-color: rgba(109, 41, 2, 0.3);
+    background-color: rgba(70, 51, 33, 0.5);
 
     top: 380px;
     left: 100px;
