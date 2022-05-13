@@ -100,37 +100,59 @@ h1, h2, h3 {
 
 /* why us section */
 
+#why-us {
+    height: 600px;
+}
+
+#why-us-left {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+}
+
+#why-us-right {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+}
+
 #why-us-heading {
     text-align: left;
-    font-size: 275%;
-    margin-top: 100px;
-    margin-left: 150px;
+    margin: 20px 0;
+    font-size: 280%;
 }
 
-#meditation-centre {
+#why-us-sub-heading {
     text-align: left;
+    margin: 20px 0;
     font-size: 150%;
-    text-transform: capitalize;
-    margin-left: 165px;
 }
 
-#why-us-text {
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+
+#why-us-text-left {
+    width: 50%;
+    float: right;
+    line-height: 20px;
+    clear:both;
+    margin-bottom: 50px;
     border-left: 1px solid #291b0e;
-    height: 40%;
-    margin-left: 150px;
-    padding-left: 5%;
 }
 
-#why-us-text p {
-    font-family: Quicksand, sans-serif;
-    font-size: 100%;
+#why-us-text-left h3 {
     text-align: left;
-    text-transform: capitalize;
-    margin-top: 25px;
-    margin-right: 750px;
 }
 
-#visual-container {
+#why-us-text-left p {
+    text-align: left;
+}
+
+#why-us-container {
     width: 400px;
     height: 400px;
     padding: 10px;
@@ -147,9 +169,58 @@ h1, h2, h3 {
     border-radius: 5%;
 }
 
-#visual-container, #visual-image {
+/* benefits section */
+
+#benefits-heading {
+    text-align: right;
+    font-size: 275%;
+    margin-top: 100px;
+    margin-right: 150px;
+}
+
+#benefits-subheading {
+    text-align: right;
+    font-size: 150%;
+    text-transform: capitalize;
+    margin-right: 165px;
+}
+
+#benefits-text-right {
+    border-right: 1px solid #291b0e;
+    height: 40%;
+    margin-right: 150px;
+    padding-right: 5%;
+}
+
+#benefits-text-right p {
+    font-family: Quicksand, sans-serif;
+    font-size: 100%;
+    text-align: right;
+    text-transform: capitalize;
+    margin-top: 25px;
+    margin-left: 750px;
+}
+
+#benefits-container-left {
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #291b0e;
+    border-width: 1px;
+    border-radius: 5%;
+    margin: 0 auto;
+}
+
+#benefits-image-bg {
+    background: url('../images/benefits-cropped.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 5%;
+}
+
+#benefits-container-left, #benefits-image-bg {
     position: absolute;
-    right: 150px;
+    left: 150px;
     top: 150%;
     vertical-align: top;
     display: inline-block;
