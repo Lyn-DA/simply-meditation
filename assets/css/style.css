@@ -229,3 +229,43 @@ hr {
     height: 100%;
     border-radius: 5%;
 }
+
+/* quote image */
+
+#quote {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#quote-text-overlay, #quote-text-overlay h2 h3 {
+    color: rgb(58, 27, 1);
+}
+
+#quote-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/quote-image.jpg') no-repeat center center;
+}
+
+#quote-text-overlay {
+    font-size: 150%;
+    font-family: Quicksand, sans-serif;
+    text-transform: uppercase;
+    text-align: right;
+    letter-spacing: 4px;
+    
+    width: 250px;
+    height: 380px;
+
+    padding: 10px 10px;
+
+    background-color: rgba(250, 118, 250, 0.4);
+
+    bottom: 90px;
+    right: 100px;
+
+    position: relative;
+    float: right;
+    bottom: 85%;
+}
