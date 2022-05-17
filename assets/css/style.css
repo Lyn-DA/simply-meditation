@@ -102,6 +102,7 @@ h1, h2, h3 {
 
 #why-us {
     height: 600px;
+    width: 90%;
 }
 
 #why-us-left {
@@ -112,20 +113,14 @@ h1, h2, h3 {
 
 #why-us-right {
     padding-top: 30px;
-    width: 50%;
+    width: 35%;
     float: right;
 }
 
 #why-us-heading {
-    text-align: left;
-    margin: 20px 0;
     font-size: 280%;
-}
-
-#why-us-sub-heading {
-    text-align: left;
-    margin: 20px 0;
-    font-size: 150%;
+    text-align: center;
+    margin: 80px 30px;
 }
 
 hr {
@@ -136,7 +131,7 @@ hr {
 
 
 #why-us-text-left {
-    width: 50%;
+    width: 80%;
     float: right;
     line-height: 20px;
     clear:both;
@@ -171,37 +166,54 @@ hr {
 
 /* benefits section */
 
-#benefits-heading {
-    text-align: right;
-    font-size: 275%;
-    margin-top: 100px;
-    margin-right: 150px;
+#benefits {
+    height: 600px;
+    width: 90%;
 }
 
-#benefits-subheading {
-    text-align: right;
-    font-size: 150%;
-    text-transform: capitalize;
-    margin-right: 165px;
+#benefits-right {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
 }
+
+#benefits-left {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+}
+
+#benefits-heading {
+    font-size: 280%;
+    text-align: center;
+    margin: 80px 30px;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
 
 #benefits-text-right {
+    width: 100%;
+    float: left;
+    line-height: 20px;
+    clear:both;
+    margin-bottom: 50px;
     border-right: 1px solid #291b0e;
-    height: 40%;
-    margin-right: 150px;
-    padding-right: 5%;
+}
+
+#benefits-text-right h3 {
+    text-align: right;
 }
 
 #benefits-text-right p {
-    font-family: Quicksand, sans-serif;
-    font-size: 100%;
     text-align: right;
-    text-transform: capitalize;
-    margin-top: 25px;
-    margin-left: 750px;
 }
 
-#benefits-container-left {
+#benefits-container {
     width: 400px;
     height: 400px;
     padding: 10px;
@@ -216,14 +228,4 @@ hr {
     background: url('../images/benefits-cropped.jpg') no-repeat center center;
     height: 100%;
     border-radius: 5%;
-}
-
-#benefits-container-left, #benefits-image-bg {
-    position: absolute;
-    left: 150px;
-    top: 150%;
-    vertical-align: top;
-    display: inline-block;
-    width: 30%;
-    padding-right: 10px;
 }
