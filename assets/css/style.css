@@ -235,7 +235,7 @@ hr {
 .extra-space {
     border: none;
     width: 100%;
-    height: 50px;
+    height: 100px;
     margin: 5px 0;
 }
 
@@ -328,3 +328,64 @@ hr {
 #links a:hover {
     border-bottom: 1px solid white;
 }
+
+/* testimonial section */
+
+#testimonial {
+    height: 600px;
+    width: 90%;
+}
+
+#testimonial-left {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+}
+
+#testimonial-right {
+    padding-top: 30px;
+    width: 35%;
+    float: right;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+
+#testimonial-text-left {
+    width: 80%;
+    float: right;
+    line-height: 20px;
+    clear:both;
+    margin-bottom: 50px;
+    border-left: 1px solid #291b0e;
+}
+
+#testimonial-text-left h3 {
+    text-align: left;
+}
+
+#testimonial-text-left p {
+    text-align: left;
+}
+
+#testimonial-container {
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #291b0e;
+    border-width: 1px;
+    border-radius: 5%;
+    margin: 0 auto;
+}
+
+#laura-image-bg {
+    background: url('../images/testimonial.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 5%;
+}
+
