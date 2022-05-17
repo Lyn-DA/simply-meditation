@@ -12,6 +12,10 @@ body {
     color: #291b0e;
 }
 
+html, body {
+    height: 100%;
+}
+
 /* headings */
 
 h1, h2, h3, h4 {
@@ -393,7 +397,8 @@ hr {
 
 #follow-us-online {
     height: 150px;
-    border: 1px solid #291b0e;
+    border-top: 1px solid #291b0e;
+    border-bottom: 1px solid #291b0e;
 }
 
 #follow-us-online h2 {
@@ -419,19 +424,47 @@ hr {
 /* footer content */
 
 #footer-content {
-    height: 80px;
     background-color: #fd3d3d;
+    position: relative;
+    bottom: 0;
+    padding-bottom: 5px;
+    width: 100%;
+    height: 80px;
+    margin-bottom: -5px;
+}
+
+#footer-content {
+    font-family: Truculenta, sans-serif;
+    text-transform: uppercase;
+    font-size: 70%;
+    letter-spacing: 4px;
+}
+
+#footer-content {
+    line-height: 70px;
 }
 
 #footer-content h4 {
-    font-size: 70%;
-    text-align: left;
     margin-left: 35px;
-    line-height: 65px;
 }
 
-.footer-hyperlinks > li {
-    display: inline;
+#footer-hyperlinks > li {
+    position: relative;
     float: right;
+    list-style-type: none;
     margin-right: 35px;
+}
+
+#footer-hyperlinks {
+    position: relative;
+    bottom: 85%
+}
+
+#footer-hyperlinks a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#footer-hyperlinks a:hover {
+    border-bottom: 1px solid #291b0e;
 }
