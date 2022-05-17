@@ -278,3 +278,38 @@ hr {
     float: right;
     bottom: 85%;
 }
+
+/* techniques classes enquiries section */
+
+#links {
+    background-image: url('../images/links\ option.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 65px;
+    width: 90%;
+    height: 300px;
+    overflow: hidden;
+}
+
+#links div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .3);
+    width: 25%;
+    height: 300px;
+    float: right;
+    padding: 30px 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+#links h1 h2 {
+    color: rgb(58, 27, 1);
+}
+
+#links h1 {
+    font-size: 280%;
+    float: left;
+    margin-top: 15px;
+}
