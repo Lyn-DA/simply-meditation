@@ -389,3 +389,38 @@ hr {
     border-radius: 5%;
 }
 
+/* social media section */
+
+#follow-us-online {
+    height: 150px;
+    border: 1px solid #291b0e;
+}
+
+#follow-us-online h2 {
+    font-size: 150%;
+    text-align: center;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1px;
+    padding: 5%;
+    color: rgb(250, 118, 250);
+}
+
+/* footer content */
+
+#footer-content {
+    height: 50px;
+    border: 1px solid #291b0e;
+    background-color: #fc782d;
+}
+
