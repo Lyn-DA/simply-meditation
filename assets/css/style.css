@@ -855,11 +855,76 @@ hr {
 
 /* find us section */
 
+#find-us {
+    height: 600px;
+    width: 90%;
+}
+
+#find-us-right {
+    padding-top: 30px;
+    width:45%;
+    float: right;
+}
+
+#find-us-left {
+    padding: 30px 0 20px 40px;
+    width: 50%;
+    float: left;
+}
+
+#find-us-heading {
+    font-size: 280%;
+    text-align: right;
+    margin: 60px -10px 30px;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+
+#find-us-text-right {
+    width: 100%;
+    float: left;
+    line-height: 20px;
+    clear:both;
+    margin-bottom: 50px;
+    border-right: 1px solid #291b0e;
+}
+
+#find-us-text-right h3 {
+    text-align: right;
+}
+
+#find-us-text-right p {
+    text-align: right;
+}
+
+#find-us-container {
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #291b0e;
+    border-width: 1px;
+    border-radius: 5%;
+    margin: 0 auto;
+}
+
+#benefits-image-bg {
+    background: url('../images/benefits\ too.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 5%;
+}
+
 .map-responsive {
     overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
+    height: 100%;
+    border-radius: 5%;
+    padding-bottom: 50%;
+    position: relative;
 }
 
 .map-responsive iframe {
@@ -869,4 +934,19 @@ hr {
     width:100%;
     position:absolute;
 }
+
+/* connect end-image */
+
+#end-image {
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#connect-end-image {
+    height: 800px;
+    width: 100%;
+    background: url('../images/connect\ end-image.jpg') no-repeat center center;
+}
+
 
