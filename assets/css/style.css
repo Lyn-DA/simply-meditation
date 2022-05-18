@@ -73,7 +73,7 @@ h1, h2, h3, h4 {
 }
 
 #text-overlay, #text-overlay h1 {
-    color: rgb(58, 27, 1);
+    color: rgb(78, 56, 56);
 }
 
 #hero-image {
@@ -96,7 +96,7 @@ h1, h2, h3, h4 {
 
     background-color: rgba(70, 51, 33, 0.5);
 
-    top: 380px;
+    top: 350px;
     left: 100px;
 
     position: absolute;
@@ -527,7 +527,7 @@ hr {
 
 /* classes html */
 
-/* classes hero image */
+/* classes main image */
 
 #classes-whole {
     height: 600px;
@@ -698,3 +698,106 @@ hr {
 }
 
 /* connect page */
+
+/* connect main image */
+
+#connect-whole {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#connect-text-overlay, #connect-text-overlay h1 {
+    color: rgb(78, 56, 56);
+}
+
+#connect-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/connect\ main\ image.jpg') no-repeat center center;
+}
+
+#connect-text-overlay {
+    font-size: 275%;
+    font-family: Quicksand, sans-serif;
+    text-align: left;
+    letter-spacing: 4px;
+
+    width: 30px;
+    height: 100px;
+
+    padding-top: 20px;
+    padding-left: 10px;
+
+    background-color: rgba(70, 51, 33, 0.5);
+
+    top: 350px;
+    left: 100px;
+
+    position: absolute;
+}
+
+/* Let's connect section */
+
+#lets-connect {
+    height: 600px;
+    width: 90%;
+}
+
+#lets-connect-left {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+}
+
+#lets-connect-right {
+    padding-top: 30px;
+    width: 35%;
+    float: right;
+}
+
+#lets-connect-heading {
+    font-size: 280%;
+    text-align: left;
+    margin: 60px 110px 30px;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+#lets-connect-text-left {
+    width: 80%;
+    float: right;
+    line-height: 20px;
+    clear:both;
+    margin-bottom: 50px;
+    border-left: 1px solid #291b0e;
+}
+
+#lets-connect-text-left h3 {
+    text-align: left;
+}
+
+#lets-connect-text-left p {
+    text-align: left;
+}
+
+#lets-connect-container {
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #291b0e;
+    border-width: 1px;
+    border-radius: 5%;
+    margin: 0 auto;
+}
+
+#connect-image-bg {
+    background: url('../images/why\ meditate\ with\ us.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 5%;
+}
