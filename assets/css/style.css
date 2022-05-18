@@ -804,7 +804,7 @@ hr {
 
 /* Contact section */
 
-#connect {
+#contact {
     background-image: url('../images/contact-bg-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -815,7 +815,7 @@ hr {
     overflow: hidden;
 }
 
-#connect div {
+#contact div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .3);
     width: 25%;
@@ -827,12 +827,12 @@ hr {
     box-sizing: border-box;
 }
 
-#connect h1 h2 {
+#contact h1 h2 {
     color: rgb(58, 27, 1);
     line-height: 75px;
 }
 
-#connect h1 {
+#contact h1 {
     font-size: 350%;
     text-align: center;
     float: left;
@@ -840,7 +840,7 @@ hr {
     margin-top: 50px;
 }
 
-#connect div a {
+#contact div a {
     text-decoration: none;
     color: rgb(58, 27, 1);
     font-size: 150%;
@@ -849,7 +849,24 @@ hr {
     top: 60%;
 }
 
-#connect a:hover {
+#contact a:hover {
     border-bottom: 1px solid white;
+}
+
+/* find us section */
+
+.map-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.map-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
 }
 
