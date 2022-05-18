@@ -9,7 +9,7 @@
 body {
     font-family: Quicksand, sans-serif;
     font-weight: 200;
-    color: #291b0e;
+    color: #221b12;
 }
 
 html, body {
@@ -22,7 +22,7 @@ h1, h2, h3, h4 {
     font-family: Truculenta, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #221b12;
+    color: #291b0e;
 }
 
 /* logo and menu bar */
@@ -314,10 +314,11 @@ hr {
 }
 
 #links h1 {
-    font-size: 380%;
+    font-size: 350%;
+    text-align: center;
     float: left;
-    margin-left: 10px;
-    margin-top: 5px;
+    margin-left: 20px;
+    margin-top: 50px;
 }
 
 #links div a {
@@ -535,7 +536,7 @@ hr {
 }
 
 #classes-text-overlay, #classes-text-overlay h1 {
-    color: rgb(58, 27, 1);
+    color: rgb(78, 56, 56);
 }
 
 #classes-image {
@@ -577,7 +578,7 @@ hr {
 }
 
 #meditation-for div {
-    color: #fafafa;
+    color: #291b0e;
     background-color: rgba(0, 0, 0, .3);
     width: 20%;
     height: 600px;
@@ -588,10 +589,10 @@ hr {
     box-sizing: border-box;
 }
 
-#meditation-for h2 {
+/*#meditation-for h2 {
     color: rgb(58, 27, 1);
     line-height: 25px;
-}
+}*/
 
 #classes-heading {
     font-size: 250%;
@@ -600,13 +601,13 @@ hr {
 }
 
 #meditation-for div h2 {
-    color: rgb(58, 27, 1);
+    color: rgb(250, 250, 250);
     font-size: 100%;
     letter-spacing: 4px;
 }
     
 #meditation-for div h3 {
-    color: rgb(58, 27, 1);
+    color: rgb(250, 250, 250);
     font-size: 120%;
     letter-spacing: 4px;
     position: relative;
@@ -615,8 +616,16 @@ hr {
 
 #meditation-for div h4 {
     color: rgb(58, 27, 1);
-    font-size: 100%;
+    font-size: 80%;
     letter-spacing: 4px;
     position: relative;
     top: 70%;
+}
+
+/* classes testimonial section */
+
+#josephine-image-bg {
+    background: url('../images/josephine-testmonial.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 5%;
 }
