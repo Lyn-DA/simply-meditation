@@ -567,50 +567,56 @@ hr {
 /* meditation classes section */
 
 #meditation-for {
-    background-image: url('../images/links\ option.jpg');
+    background-image: url('../images/meditation\ classes\ for.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    margin-left: 65px;
-    width: 90%;
-    height: 300px;
+    width: 100%;
+    height: 600px;
     overflow: hidden;
 }
 
-#links div {
+#meditation-for div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .3);
-    width: 25%;
-    height: 300px;
+    width: 20%;
+    height: 600px;
     float: right;
     padding: 30px 10px;
     text-align: center;
-    border: 2px solid white;
+    border: 1px solid white;
     box-sizing: border-box;
 }
 
-#links h1 h2 {
+#meditation-for h2 {
     color: rgb(58, 27, 1);
-    line-height: 75px;
+    line-height: 25px;
 }
 
-#links h1 {
-    font-size: 380%;
-    float: left;
-    margin-left: 10px;
+#classes-heading {
+    font-size: 250%;
+    text-align: center;
     margin-top: 5px;
 }
 
-#links div a {
-    text-decoration: none;
+#meditation-for div h2 {
     color: rgb(58, 27, 1);
-    font-size: 150%;
+    font-size: 100%;
+    letter-spacing: 4px;
+}
+    
+#meditation-for div h3 {
+    color: rgb(58, 27, 1);
+    font-size: 120%;
     letter-spacing: 4px;
     position: relative;
     top: 60%;
 }
 
-#links a:hover {
-    border-bottom: 1px solid white;
+#meditation-for div h4 {
+    color: rgb(58, 27, 1);
+    font-size: 100%;
+    letter-spacing: 4px;
+    position: relative;
+    top: 70%;
 }
-
