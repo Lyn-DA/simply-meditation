@@ -270,7 +270,7 @@ hr {
 
 #quote-text-overlay {
     font-size: 150%;
-    text-align: right;
+    text-align: center;
     letter-spacing: 4px;
     
     width: 250px;
@@ -485,7 +485,7 @@ hr {
 }
 
 #follow-us-online h3 {
-    font-size: 150%;
+    font-size: 180%;
     text-align: center;
 }
 
@@ -498,7 +498,7 @@ hr {
 }
 
 .social-networks i {
-    font-size: 160%;
+    font-size: 250%;
     margin: 1px;
     padding: 5%;
     color: #ff5454;
@@ -855,7 +855,7 @@ hr {
 
 #contact div {
     color: #291b0e;
-    background-color: rgba(255, 84, 84, 0.5);
+    background-color: rgba(146, 125, 112, 0.5);
     width: 25%;
     height: 300px;
     float: right;
@@ -999,19 +999,19 @@ hr {
 }
 
 #contact-form h2 {
-    color: #fafafa;
+    color: rgb(22, 1, 3);
     margin-bottom: 20px;
     text-align: center;
 }
 
 #contact-form h3 {
+    color: #fafafa;
     text-align: center;
-    text-transform: lowercase;
 }
 
 #fname, #lname, #email, #number, #message {
     background: transparent;
-    color: #fafafa;
+    color: #927d70;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px;
@@ -1062,6 +1062,9 @@ hr {
     height: 100%;
     border-radius: 5%;
 }
+
+/* media queries */
+
 
 
 
