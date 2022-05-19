@@ -492,6 +492,10 @@ hr {
     color: rgb(250, 118, 250);
 }
 
+.social-networks i:hover {
+    color: blue;
+}
+
 /* footer content */
 
 #footer-content {
