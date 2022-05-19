@@ -489,7 +489,7 @@ hr {
     font-size: 160%;
     margin: 1px;
     padding: 5%;
-    color: rgb(250, 118, 250);
+    color: #f16c6b;
 }
 
 .social-networks i:hover {
@@ -499,7 +499,7 @@ hr {
 /* footer content */
 
 #footer-content {
-    background-color: #fd3d3d;
+    background-color: #f35757;
     position: relative;
     bottom: 0;
     padding-bottom: 5px;
