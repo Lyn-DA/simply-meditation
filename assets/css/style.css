@@ -70,29 +70,29 @@ h2 {
 
 /* hero image */
 
-#hero-whole {
+.hero-main {
     height: 600px;
     width: 100%;
     overflow: hidden;
 }
 
-#text-overlay, #text-overlay h1 {
+.text-overlay, .text-overlay h1 {
     color: rgb(250, 250, 250);
 }
 
-#hero-image {
+#hero-main-image {
     height: 600px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
 }
 
-#text-overlay {
+.text-overlay {
     font-size: 275%;
     font-family: Quicksand, sans-serif;
     text-align: left;
     letter-spacing: 4px;
 
-    width: 300px;
+    width: 325px;
     height: 300px;
 
     padding-top: 20px;
@@ -108,27 +108,27 @@ h2 {
 
 /* why us section */
 
-#why-us {
+.feature-left {
     height: 600px;
     width: 90%;
 }
 
-#why-us-left {
+.feature-left-heading {
+    font-size: 280%;
+    text-align: left;
+    margin: 60px 110px 30px;
+}
+
+.feature-left-column {
     padding-top: 30px;
     width: 50%;
     float: left;
 }
 
-#why-us-right {
+.feature-right-column {
     padding-top: 30px;
     width: 35%;
     float: right;
-}
-
-#why-us-heading {
-    font-size: 280%;
-    text-align: left;
-    margin: 60px 110px 30px;
 }
 
 hr {
@@ -138,7 +138,7 @@ hr {
 }
 
 
-#why-us-text-left {
+.feature-left-text {
     width: 80%;
     float: right;
     line-height: 20px;
@@ -147,15 +147,15 @@ hr {
     border-left: 1px solid #927d70;
 }
 
-#why-us-text-left h3 {
+.feature-left-text h3 {
     text-align: left;
 }
 
-#why-us-text-left p {
+.feature-left-text p {
     text-align: left;
 }
 
-#why-us-container {
+.feature-right-container {
     width: 400px;
     height: 400px;
     padding: 10px;
@@ -166,7 +166,7 @@ hr {
     margin: 0 auto;
 }
 
-#visual-image-bg {
+#why-us-image-bg {
     background: url('../images/why\ meditate\ with\ us.jpg') no-repeat center center;
     height: 100%;
     border-radius: 5%;
@@ -174,27 +174,27 @@ hr {
 
 /* benefits section */
 
-#benefits {
+.feature-right {
     height: 600px;
     width: 90%;
 }
 
-#benefits-right {
+.feature-right-heading {
+    font-size: 280%;
+    text-align: right;
+    margin: 60px -10px 30px;
+}
+
+.reverse-feature-right-column {
     padding-top: 30px;
     width:45%;
     float: right;
 }
 
-#benefits-left {
+.reverse-feature-left-column {
     padding: 30px 0 20px 40px;
     width: 50%;
     float: left;
-}
-
-#benefits-heading {
-    font-size: 280%;
-    text-align: right;
-    margin: 60px -10px 30px;
 }
 
 hr {
@@ -204,7 +204,7 @@ hr {
 }
 
 
-#benefits-text-right {
+.feature-right-text {
     width: 100%;
     float: left;
     line-height: 20px;
@@ -213,15 +213,15 @@ hr {
     border-right: 1px solid #927d70;
 }
 
-#benefits-text-right h3 {
+.feature-right-text h3 {
     text-align: right;
 }
 
-#benefits-text-right p {
+.feature-right-text p {
     text-align: right;
 }
 
-#benefits-container {
+.feature-left-container {
     width: 400px;
     height: 400px;
     padding: 10px;
@@ -415,7 +415,7 @@ hr {
 
 /* newsletter form section */
 
-.form-section {
+.newsletter-section {
     clear: left;
     background: url('../images/newsletter.jpg');
     background-size: cover;
@@ -561,40 +561,10 @@ hr {
 
 /* classes main image */
 
-#classes-whole {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-}
-
-#classes-text-overlay, #classes-text-overlay h1 {
-    color: rgb(250, 250, 250);
-}
-
-#classes-image {
+#classes-main-image {
     height: 600px;
     width: 100%;
     background: url('../images/classes\ new\ again.jpg') no-repeat center center;
-}
-
-#classes-text-overlay {
-    font-size: 275%;
-    font-family: Quicksand, sans-serif;
-    text-align: left;
-    letter-spacing: 4px;
-
-    width: 300px;
-    height: 300px;
-
-    padding-top: 20px;
-    padding-left: 10px;
-
-    background-color: rgba(146, 125, 112, 0.5);
-
-    top: 350px;
-    left: 100px;
-
-    position: absolute;
 }
 
 /* meditation classes section */
@@ -738,40 +708,10 @@ hr {
 
 /* connect main image */
 
-#connect-whole {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-}
-
-#connect-text-overlay, #connect-text-overlay h1 {
-    color: rgb(250, 250, 250);
-}
-
-#connect-image {
+#connect-main-image {
     height: 600px;
     width: 100%;
     background: url('../images/connect\ main\ image.jpg') no-repeat center center;
-}
-
-#connect-text-overlay {
-    font-size: 275%;
-    font-family: Quicksand, sans-serif;
-    text-align: left;
-    letter-spacing: 4px;
-
-    width: 310px;
-    height: 300px;
-
-    padding-top: 20px;
-    padding-left: 10px;
-
-    background-color: rgba(146, 125, 112, 0.5);
-
-    top: 350px;
-    left: 100px;
-
-    position: absolute;
 }
 
 /* Let's connect section */
@@ -1064,6 +1004,12 @@ hr {
 }
 
 /* media queries */
+
+/* for large to medium screen size from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+
+}
 
 
 
