@@ -756,6 +756,7 @@ footer {
 /* for medium screen sizes from 950px wide and down */
 
 @media screen and (max-width: 950px) {
+
     #menu {
         clear: left;
         float: left;
@@ -804,13 +805,83 @@ footer {
         font-size: 100%;
     }
 
+    .simply-three p {
+        font-size: 95%;
+    }
+
     .signup-form {
         margin: 0 80px;
-        color: #fff;
-        background-color: rgba(146, 125, 112, 0.6);
         max-width: 300px;
         height: 45%;
         left: 50px;
         padding: 30px;
     }
 }
+
+/* for small screen sizes from 800px wide and down */
+
+@media screen and (max-width: 800px) {
+
+    /* navigation menu */
+
+    #menu {
+        float: right;
+    }
+
+    /* why-us and benefits section */
+
+    .feature-left-heading, .feature-right-heading {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    .feature-left, .feature-right {
+        width: 80%;
+        height: 800px;
+        margin: 0 auto;
+    }
+
+    /* why-us section */
+
+    .feature-left-column, .feature-right-column {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    .feature-left-text {
+        border-left: none;
+        width: 100%;
+    }
+
+    .feature-left-text h3 {
+        text-align: center;
+    }
+
+    .feature-left-text p {
+        text-align: center;
+    }
+
+    /* benefits section */
+
+    .reverse-feature-left-column, .reverse-feature-right-column {
+        width: 100%;
+        float: left;
+        padding: 0;
+        margin: 0 auto;
+    }
+
+    .feature-right-text {
+        border-right: none;
+        width: 100%;
+    }
+
+    .feature-right-text h3 {
+        text-align: center;
+    }
+
+    .feature-right-text p {
+        text-align: center;
+    }
+}
+ 
