@@ -292,15 +292,16 @@ hr {
     text-align: center;
     letter-spacing: 4px;
     
-    width: 250px;
-    height: 310px;
+    width: 270px;
+    height: 320px;
 
-    padding: 10px 10px;
+    padding-top: 40px;
+    padding-left: 10px;
 
     background-color: rgba(146, 125, 112, 0.5);
 
-    bottom: 90px;
-    right: 100px;
+    bottom: 30px;
+    right: 150px;
 
     position: relative;
     float: right;
@@ -393,14 +394,14 @@ hr {
 }
 
 .signup-form {
-    margin: 150px 10% 0 0;
+    margin: 125px auto;
     color: #fff;
     background-color: rgba(146, 125, 112, 0.6);
     max-width: 400px;
     height: 45%;
     position: absolute;
     left: 10%;
-    padding: 30px;
+    padding: 20px;
 }
 
 .signup-form h2 {
