@@ -41,6 +41,8 @@ h3, h4 {
     color: #f08056;
 }
 
+/* index.html */
+
 /* logo and navigation */
 
 #logo {
@@ -119,6 +121,8 @@ h3, h4 {
     position: absolute;
 }
 
+/* feature: text-left | image-right */
+
 /* why us section */
 
 .feature-left {
@@ -184,6 +188,8 @@ hr {
     height: 100%;
     border-radius: 5%;
 }
+
+/* feature: image-left | text-right */
 
 /* benefits section */
 
@@ -267,7 +273,7 @@ hr {
     margin: 5px 0;
 }
 
-/* quote image */
+/* quote-image */
 
 #quote {
     height: 600px;
@@ -302,6 +308,7 @@ hr {
 }
 
 #quote-text-overlay h2 {
+    text-transform: uppercase;
     color: #fafafa;
 }
 
@@ -310,7 +317,7 @@ hr {
     font-weight: 300;
 }
 
-/* techniques classes enquiries section */
+/* info / hyperlinks section */
 
 #links {
     background-image: url('../images/links\ option.jpg');
@@ -323,7 +330,16 @@ hr {
     overflow: hidden;
 }
 
-#links div {
+#links-heading {
+    color: #927d70;
+    font-size: 280%;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.simply-three {
     color: rgb(22, 1, 3);
     background-color: rgba(146, 125, 112, .3);
     width: 25%;
@@ -335,34 +351,26 @@ hr {
     box-sizing: border-box;
 }
 
-#links h2 {
+.simply-three h2 {
     color: #fafafa;
     font-weight: 800;
 }
 
-#links p {
+.simply-three p {
     font-weight: 600;
 }
 
-#links h1 {
-    color: #927d70;
-    font-size: 280%;
-    text-align: center;
-    float: left;
-    margin-left: 20px;
-    margin-top: 50px;
-}
-
-#links div a {
+.simply-three a {
     text-decoration: none;
+    font-weight: 900;
     color: #fafafa;
-    font-size: 150%;
+    font-size: 90%;
     letter-spacing: 4px;
     position: relative;
     top: 20%;
 }
 
-#links a:hover {
+.simply-three a:hover {
     border-bottom: 1px solid white;
 }
 
@@ -517,9 +525,9 @@ hr {
     border-bottom: 1px solid #ff5454;
 }
 
-/* classes html */
+/* classes.html */
 
-/* classes main image */
+/* classes main-image */
 
 #classes-main-image {
     height: 600px;
@@ -527,9 +535,16 @@ hr {
     background: url('../images/classes\ new\ again.jpg') no-repeat center center;
 }
 
-/* meditation classes section */
+/* meditation classes and techniques */
 
-#meditation-for {
+.simply-five-heading {
+    font-size: 250%;
+    text-align: center;
+    margin-top: 5px;
+    color: #f08056;
+}
+
+.simply-five {
     background-image: url('../images/meditation\ classes\ for.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -539,7 +554,7 @@ hr {
     overflow: hidden;
 }
 
-#meditation-for div {
+.simply-five div {
     color: #291b0e;
     background-color: rgba(146, 125, 112, .3);
     width: 20%;
@@ -551,20 +566,13 @@ hr {
     box-sizing: border-box;
 }
 
-#classes-heading {
-    font-size: 250%;
-    text-align: center;
-    margin-top: 5px;
-    color: #f08056;
-}
-
-#meditation-for div h3 {
+.simply-five div h3 {
     color: rgb(250, 250, 250);
     font-size: 150%;
     letter-spacing: 4px;
 }
     
-#meditation-for div h4 {
+.simply-five div h4 {
     color: rgb(250, 250, 250);
     font-size: 100%;
     letter-spacing: 4px;
@@ -572,7 +580,7 @@ hr {
     top: 60%;
 }
 
-#meditation-for div h5 {
+.simply-five div h5 {
     color: rgb(22, 1, 3);
     font-size: 80%;
     letter-spacing: 4px;
@@ -623,43 +631,6 @@ hr {
     text-align: justify;
 }
 
-/* meditation techniques section */
-
-#meditation-techniques {
-    background-image: url('../images/meditation\ classes\ for.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    height: 600px;
-    overflow: hidden;
-}
-
-#meditation-techniques div {
-    color: rgb(22, 1, 3);
-    background-color: rgba(146, 125, 112, .5);
-    width: 20%;
-    height: 600px;
-    float: right;
-    padding: 30px 10px;
-    text-align: center;
-    border: 1px solid white;
-    box-sizing: border-box;
-}
-
-#techniques-heading {
-    font-size: 250%;
-    text-align: center;
-    margin-top: 5px;
-    color: #f08056;
-}
-
-#meditation-techniques div h3 {
-    color: rgb(250, 250, 250);
-    font-size: 150%;
-    letter-spacing: 4px;
-}
-
 /* classes testimonial section */
 
 #josephine-image-bg {
@@ -668,7 +639,7 @@ hr {
     border-radius: 5%;
 }
 
-/* connect page */
+/* connect.html */
 
 /* connect main image */
 
@@ -680,71 +651,13 @@ hr {
 
 /* Let's connect section */
 
-#lets-connect {
-    height: 600px;
-    width: 90%;
-}
-
-#lets-connect-left {
-    padding-top: 30px;
-    width: 50%;
-    float: left;
-}
-
-#lets-connect-right {
-    padding-top: 30px;
-    width: 35%;
-    float: right;
-}
-
-#lets-connect-heading {
-    font-size: 280%;
-    text-align: left;
-    margin: 60px 110px 30px;
-}
-
-hr {
-    border-top: 1px solid #927d70;
-    width: 100%;
-    margin: 5px 0;
-}
-
-#lets-connect-text-left {
-    width: 80%;
-    float: right;
-    line-height: 20px;
-    clear:both;
-    margin-bottom: 50px;
-    border-left: 1px solid #927d70;
-}
-
-#lets-connect-text-left h3 {
-    text-align: left;
-}
-
-#lets-connect-text-left p {
-    text-align: left;
-    font-size: 115%;
-}
-
-#lets-connect-container {
-    width: 400px;
-    height: 400px;
-    padding: 10px;
-    border-style: solid;
-    border-color: #927d70;
-    border-width: 1px;
-    border-radius: 5%;
-    margin: 0 auto;
-}
-
 #connect-image-bg {
     background: url('../images/lets-connect.jpg') no-repeat center center;
     height: 100%;
     border-radius: 5%;
 }
 
-/* Contact section */
+/* simply contact section */
 
 #contact {
     background-image: url('../images/connect\ image\ again.jpg');
@@ -757,50 +670,14 @@ hr {
     overflow: hidden;
 }
 
-#contact div {
-    color: #291b0e;
-    background-color: rgba(146, 125, 112, 0.5);
-    width: 25%;
-    height: 300px;
-    float: right;
-    padding: 30px 10px;
-    text-align: center;
-    border: 2px solid white;
-    box-sizing: border-box;
-}
-
-#contact h1 {
+#contact-heading {
     color: rgb(250, 250, 250);
     line-height: 75px;
-}
-
-#contact div h2 {
-    color: rgb(250, 250, 250);
-}
-
-#contact div p {
-    font-weight: 900;
-}
-
-#contact h1 {
     font-size: 350%;
     text-align: center;
     float: left;
     margin-left: 35px;
     margin-top: 50px;
-}
-
-#contact div a {
-    text-decoration: none;
-    color: rgb(250, 250, 250);
-    font-size: 90%;
-    letter-spacing: 4px;
-    position: relative;
-    top: 30%;
-}
-
-#contact a:hover {
-    border-bottom: 1px solid #927d70;
 }
 
 /* find us section */
