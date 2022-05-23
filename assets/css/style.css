@@ -251,13 +251,13 @@ hr {
 /* quote-image */
 
 #quote {
-    height: 600px;
+    height: 500px;
     width: 100%;
     overflow: hidden;
 }
 
 #quote-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url('../images/quote-image.jpg') no-repeat center center;
 }
@@ -267,8 +267,8 @@ hr {
     text-align: center;
     letter-spacing: 4px;
     
-    width: 270px;
-    height: 320px;
+    width: 900px;
+    height: 150px;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -280,7 +280,7 @@ hr {
 
     position: relative;
     float: right;
-    bottom: 75%;
+    bottom: 45%;
 }
 
 #quote-text-overlay h2 {
@@ -289,7 +289,7 @@ hr {
 }
 
 #quote-text-overlay h3 {
-    color:#927d70;
+    color: #fafafa;
     font-weight: 300;
 }
 
