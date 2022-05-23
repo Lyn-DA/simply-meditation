@@ -537,7 +537,7 @@ footer {
 /* meditation styles section */
 
 #meditation-styles {
-    background-image: url('../images/links\ option.jpg');
+    background-image: url('../images/simply-three-bg-img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -573,7 +573,7 @@ footer {
 
 #meditation-styles div p {
     font-size: 110%;
-    font-weight:400;
+    font-weight:800;
     text-align: justify;
 }
 
