@@ -790,10 +790,36 @@ hr {
 /* for large to medium screen size from 1200px wide and down */
 
 @media screen and (max-width: 1200px) {
+    .text-overlay {
+        left: 50px;
+    }
+
+    .feature-left-column, .feature-right-column {
+        margin: 10px 30px 0 10px;
+    }
+
+    .feature-left-heading {
+        margin: 30px 100px 0;
+        font-size: 225%;
+    }
+
+    .feature-left-text h3 {
+        text-align: left;
+        font-size: 95%;
+    }
+
+    .reverse-feature-left-column, .reverse-feature-right-column {
+        margin: 10px 30px 0 10px;
+    }
+
+    .feature-right-heading {
+        margin: 30px 100px 0;
+        font-size: 225%;
+    }
+
+    .feature-right-text h3 {
+        text-align: left;
+        font-size: 95%;
+    }
 
 }
-
-
-
-
-
