@@ -785,10 +785,32 @@ footer {
     }
 
     .feature-right {
-        width: 100%;
+        width: 90%;
+    }
+
+    .reverse-feature-right-column {
+        margin: 0 -50px;
     }
 
     .reverse-feature-left-column {
-        margin-left: 80px;
+        margin-left: 20px;
+    }
+
+    #links-heading {
+        font-size: 130%;
+    }
+
+    .simply-three h2 {
+        font-size: 100%;
+    }
+
+    .signup-form {
+        margin: 0 80px;
+        color: #fff;
+        background-color: rgba(146, 125, 112, 0.6);
+        max-width: 300px;
+        height: 45%;
+        left: 50px;
+        padding: 30px;
     }
 }
