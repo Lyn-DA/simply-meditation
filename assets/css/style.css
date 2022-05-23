@@ -489,13 +489,13 @@ footer {
 
 .simply-five div h3 {
     color: rgb(250, 250, 250);
-    font-size: 150%;
+    font-size: 130%;
     letter-spacing: 4px;
 }
     
 .simply-five div h4 {
     color: rgb(250, 250, 250);
-    font-size: 100%;
+    font-size: 120%;
     letter-spacing: 4px;
     position: relative;
     top: 60%;
@@ -710,45 +710,10 @@ footer {
 
 /* for large to medium screen size from 1200px wide and down */
 
-/*@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
 
     #menu li {
         margin-right: 35px;
-    }
-
-    .text-overlay {
-        left: 50px;
-    }
-
-    .feature-left-column, .feature-right-column {
-        margin: 10px 30px 0 10px;
-    }
-
-    .feature-left-heading {
-        margin: 30px 100px 0;
-        font-size: 225%;
-    }
-
-    .feature-left-text h3 {
-        text-align: left;
-        font-size: 95%;
-    }
-
-    .feature-right-heading {
-        font-size: 225%;
-        margin: 0 -50px 0;
-    }
-
-    .feature-right-text h3 {
-        font-size: 100%;
-    }
-
-    .reverse-feature-right-column {
-        margin: 0 -40px 0;
-    }
-
-    .reverse-feature-left-column {
-        margin-left: 30px;
     }
 
     #quote {
@@ -764,7 +729,7 @@ footer {
     }
 
     #links-heading {
-        font-size: 200%;
+        font-size: 180%;
         margin-top: 30px;
         margin-left: 30px;
         font-weight: 900;
@@ -779,4 +744,6 @@ footer {
         top: 10%;
     }
 
-}*/
+}
+
+
