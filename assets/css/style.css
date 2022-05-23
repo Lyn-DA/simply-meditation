@@ -763,4 +763,32 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
+
+    #quote-text-overlay {
+            left: 0;
+    }
+
+    .feature-left-text h3 {
+        font-size: 150%;
+    }
+
+    .feature-right-text h3 {
+        font-size: 150%;
+    }
+
+    .feature-left {
+        width: 90%;
+    }
+
+    .feature-right-column {
+        margin-right: 80px;
+    }
+
+    .feature-right {
+        width: 100%;
+    }
+
+    .reverse-feature-left-column {
+        margin-left: 80px;
+    }
 }
