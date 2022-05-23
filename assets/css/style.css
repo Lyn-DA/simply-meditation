@@ -369,14 +369,13 @@ hr {
 }
 
 .signup-form {
-    margin: 1px auto;
+    margin: 0 110px;
     color: #fff;
     background-color: rgba(146, 125, 112, 0.6);
     max-width: 400px;
     height: 45%;
-    position: absolute;
-    left: 10%;
-    padding: 20px;
+    left: 30px;
+    padding: 60px;
 }
 
 .signup-form h2 {
