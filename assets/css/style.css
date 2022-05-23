@@ -320,7 +320,7 @@ hr {
 /* info / hyperlinks section */
 
 #links {
-    background-image: url('../images/links\ option.jpg');
+    background-image: url('../images/simply-three-bg-img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -341,7 +341,7 @@ hr {
 
 .simply-three {
     color: rgb(22, 1, 3);
-    background-color: rgba(146, 125, 112, .3);
+    background-color: rgba(146, 125, 112, 0.3);
     width: 25%;
     height: 300px;
     float: right;
