@@ -1112,6 +1112,63 @@ footer {
     height: 200px;
 }
 
+}
+
+/* for smaller again screen sizes from 330px wide and down */
+
+@media screen and (max-width: 330px) {
+
+/* nav menu */
+
+#menu {
+    letter-spacing: normal;
+}
+
+/* why-us and benefits section */
+
+.feature-left-heading, .feature-right-heading {
+    font-size: 180%;
+}
+
+/* quote */
+
+#quote-image {
+    background-size: 600px;
+    height: 550px;
+    width: 350px;
+}
+
+#quote-text-overlay {
+    font-size: 70%;
+    letter-spacing: normal;
+        
+    width: 300px;
+    height: 200px;
+}
+
+/* more info links section */
+
+#links {
+    height: 900px;
+}
+
+#links > div {
+    height: 300px;
+}
+
+.simply-three h2 {
+    font-size: 150%;
+    margin-top: 10px;
+}
+
+.simply-three a {
+    font-size: 120%;
+}
+
+.simply-three p {
+    font-size: 120%;
+}
+
+
 
 }
- 
