@@ -601,6 +601,13 @@ footer {
     margin-top: 50px;
 }
 
+.simply-three h3 {
+    color: #fafafa;
+    font-size: 90%;
+    position: relative;
+    top: 30%;
+}
+
 /* find us section */
 
 .map-responsive {
@@ -712,6 +719,8 @@ footer {
 
 @media screen and (max-width: 1200px) {
 
+/* index.html */
+
 /* navigation menu*/
 
     #menu li {
@@ -759,6 +768,25 @@ footer {
     .simply-three a {
         top: 10%;
     }
+
+/* classes.html */
+
+/* meditation styles section */
+
+#meditation-styles > div > p {
+    font-size: 100%;
+}
+
+/* simply contact section */
+
+#contact-heading {
+    font-size: 250%;
+}
+
+.simply-three h3 {
+    font-size: 85%;
+}
+
 }
 
 /* for medium screen sizes from 950px wide and down */
