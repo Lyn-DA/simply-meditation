@@ -998,8 +998,6 @@ footer {
     margin-right: 60px;
 }
 
-
-
 /* why-us and benefits section */
 
 .feature-left-heading, .feature-right-heading {
@@ -1023,6 +1021,25 @@ footer {
 }
 
 .feature-right-text p {
+    font-size: 100%;
+}
+
+/* more info links section */
+
+#links {
+    height: 600px;
+}
+
+#links > div {
+    height: 200px;
+}
+
+.simply-three h2 {
+    font-size: 130%;
+    margin-top: 10px;
+}
+
+.simply-three a {
     font-size: 100%;
 }
 
