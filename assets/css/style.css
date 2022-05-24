@@ -978,4 +978,53 @@ footer {
     }
 
 }
+
+/* for small screen sizes from 600px wide and down */
+
+@media screen and (max-width: 600px) {
+
+/* logo */
+
+#logo {
+    height: 150px;
+    width: 150%;
+    margin-left: 25px;
+}
+
+/* navigation menu */
+
+#menu {
+    font-size: 100%;
+    margin-right: 60px;
+}
+
+
+
+/* why-us and benefits section */
+
+.feature-left-heading, .feature-right-heading {
+    font-size: 180%;
+}
+
+/* why-us section */
+
+.feature-left-text h3 {
+    font-size: 100%;
+}
+
+.feature-left-text p {
+    font-size: 100%;
+}
+
+/* benefits section */
+
+.feature-right-text h3 {
+    font-size: 100%;
+}
+
+.feature-right-text p {
+    font-size: 100%;
+}
+
+}
  
