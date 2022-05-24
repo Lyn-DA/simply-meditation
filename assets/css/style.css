@@ -1095,7 +1095,22 @@ footer {
     font-size: 150%;
 }
 
-/* benefits section */
+/* quote */
+
+#quote-image {
+    background-size: 700px;
+    height: 550px;
+    width: 450px;
+}
+
+#quote-text-overlay {
+    font-size: 80%;
+    text-align: center;
+    letter-spacing: 2px;
+        
+    width: 400px;
+    height: 200px;
+}
 
 
 }
