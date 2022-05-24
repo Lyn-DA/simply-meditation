@@ -712,9 +712,13 @@ footer {
 
 @media screen and (max-width: 1200px) {
 
+/* navigation menu*/
+
     #menu li {
         margin-right: 35px;
     }
+
+/* why-us and benefits section headings */
 
     .feature-left-text h3 {
         font-size: 95%;
@@ -724,6 +728,8 @@ footer {
         font-size: 100%;
     }
 
+/* quote overlay text */
+
     #quote {
         margin-top: -50px;
     }
@@ -731,6 +737,8 @@ footer {
     #quote-text-overlay {
         right: 30px;
     }
+
+/* more info links section */
 
     #links {
         margin: 0 60px;
@@ -757,6 +765,8 @@ footer {
 
 @media screen and (max-width: 950px) {
 
+/* navigation menu */
+
     #menu {
         clear: left;
         float: left;
@@ -765,9 +775,13 @@ footer {
         line-height: 25px;
     }
 
+/* quote text-overlay */
+
     #quote-text-overlay {
             left: 0;
     }
+
+/* why-us and benefits section headings */
 
     .feature-left-text h3 {
         font-size: 150%;
@@ -776,6 +790,8 @@ footer {
     .feature-right-text h3 {
         font-size: 150%;
     }
+
+/* why-us and benefits section */
 
     .feature-left {
         width: 90%;
@@ -796,6 +812,8 @@ footer {
     .reverse-feature-left-column {
         margin-left: 20px;
     }
+
+/* more info links section */
 
     #links-heading {
         font-size: 130%;
@@ -883,5 +901,49 @@ footer {
     .feature-right-text p {
         text-align: center;
     }
+
+/* quote overlay text */
+
+    #quote {
+        margin: 0 auto;
+    }
+
+    #quote-text-overlay {
+        font-size: 100%;
+        text-align: center;
+        letter-spacing: 4px;
+        
+        width: 500px;
+        height: 150px;
+    }
+
+/* more info links section */
+
+    #links {
+        margin: 0 auto;
+        width: 100%;
+        height: 450px;
+        overflow: hidden;
+    }
+
+    #links > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0%;
+    }
+
+    #links-heading {
+        display: none;
+    }
+
+    .simply-three h2 {
+        font-size: 150%;
+    }
+
+    .simply-three a {
+        font-size: 100%;
+    }
+
 }
  
