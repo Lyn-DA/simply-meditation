@@ -1054,6 +1054,28 @@ footer {
         height: 100px;
     }
 
+/* classes.html */
+
+/* meditation styles section */
+
+#meditation-styles {
+    margin: 0 auto;
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+}
+
+#meditation-styles > div {
+    width: 100%;
+    clear: both;
+    height: 200px;
+    padding: 0%;
+}
+
+#meditation-styles > div > p {
+    padding: 5px;
+}
+
 }
 
 /* for small screen sizes from 600px wide and down */
