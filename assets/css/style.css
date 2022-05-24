@@ -827,6 +827,8 @@ footer {
         font-size: 95%;
     }
 
+/* newsletter section */
+
     .signup-form {
         margin: 0 80px;
         max-width: 300px;
@@ -853,10 +855,16 @@ footer {
         margin: 0;
     }
 
-    .feature-left, .feature-right {
+    .feature-left {
         width: 80%;
         height: 800px;
         margin: 0 auto;
+    }
+
+    .feature-right {
+        width: 80%;
+        height: 800px;
+        margin: 30px auto;
     }
 
     /* why-us section */
@@ -878,6 +886,7 @@ footer {
 
     .feature-left-text p {
         text-align: center;
+        font-size: 110%;
     }
 
     /* benefits section */
@@ -900,6 +909,7 @@ footer {
 
     .feature-right-text p {
         text-align: center;
+        font-size: 110%;
     }
 
 /* quote overlay text */
@@ -943,6 +953,14 @@ footer {
 
     .simply-three a {
         font-size: 100%;
+    }
+
+    .signup-form {
+        margin: 0 80px;
+        max-width: 300px;
+        height: 45%;
+        left: 50px;
+        padding: 30px;
     }
 
 }
