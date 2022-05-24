@@ -784,7 +784,8 @@ footer {
 }
 
 .simply-three h3 {
-    font-size: 85%;
+    font-size: 100%;
+    letter-spacing: normal;
 }
 
 }
