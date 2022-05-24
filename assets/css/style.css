@@ -873,7 +873,7 @@ footer {
 
 /* classes.html */
 
-/* meditation classes section */
+/* meditation classes and techniques section */
 
 .simply-five {
     margin: 0 auto;
@@ -897,6 +897,19 @@ footer {
 
 #meditation-styles > div > p {
     font-size: 90%;
+}
+
+/* connect.html */
+
+/* simply contact section */
+
+#contact-heading {
+    font-size: 200%;
+}
+
+.simply-three h3 {
+    font-size: 90%;
+    letter-spacing: normal;
 }
 
 
