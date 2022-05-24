@@ -1044,4 +1044,59 @@ footer {
 }
 
 }
+
+/* for smaller screen sizes from 400px wide and down */
+
+@media screen and (max-width: 400px) {
+
+/* logo */
+
+.logo-image {
+    max-width: 65%;
+    margin-left: -20px;
+}
+
+/* nav menu */
+
+#menu {
+    font-size: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+/* hero image */
+
+.hero-main {
+    background-size: 150px;
+    height: 550px;
+    width: 450px;
+}
+
+/* why-us section and benefits section */
+
+.feature-right-container {
+    width: 95%;
+    margin-bottom: 50px;
+}
+
+.feature-left-container {
+    width: 95%;
+}
+
+.feature-left-heading, .feature-right-heading {
+    font-size: 230%;
+}
+
+.feature-left-text h3 {
+    font-size: 150%;
+}
+
+.feature-right-text h3 {
+    font-size: 150%;
+}
+
+/* benefits section */
+
+
+}
  
