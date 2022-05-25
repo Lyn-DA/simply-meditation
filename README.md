@@ -15,6 +15,7 @@ The site consists of three pages and sixteen features
 - The navigation bar is fully responsive and identical on all three pages which allows for easy navigation
 - Includes links to the Logo, Homepage, Classes and Connect page
 - The current page is highlighted by an underline in the navigational menu
+- This section is valable to the user as it
 
 
 ### Main Image
@@ -22,6 +23,7 @@ The site consists of three pages and sixteen features
 - Introduces the user to each page with an eye-catching image designed to promote a state of peace and happiness
 - Includes a royalty-free image which represents the nature of the site as well as the page currently open
 - Each image includes a text overlay which highlights the nature of the site as well as the page currently open
+- This section is valable to the user as it
 
 
 ### About Us Section
@@ -31,6 +33,7 @@ The site consists of three pages and sixteen features
 - Includes an accompanying image which promotes meditation as something one can do with others (Right)
 - This section underpins the idea of learning to meditate in a class setting
 - Provides a design feature that runs across the site, promoting a good user experience
+- This section is valable to the user as it
 
 
 ### About Meditation Section
@@ -39,6 +42,7 @@ The site consists of three pages and sixteen features
 - Includes an accompanying image which points to the idea of achieving inner peace (Left)
 - Both text and image encourages the user to consider joining a meditation class to gain the benefits
 - Provides a design feature that runs across the site, promoting a good user experience
+- This section is valable to the user as it
 
 
 ### Inspirational Quote Section
@@ -46,13 +50,15 @@ The site consists of three pages and sixteen features
 - Includes a royalty-free image which represents the nature of the site overall and the chosen quote
 - Image includes a text overlay with inspirational quote by Deepak Chopra, a prominent figure in the holistic health and wellness industry
 - Image and text overlay is in keeping with the main image on all three pages which creates a nice sense of aesthetic harmony
+- This section is valable to the user as it
 
 
 ### Further Information Section
 - Featured on Homepage
 - Includes a little info about where the user can find out more information on the site about meditation techniques, classes and enquiries
 - Includes three hyperlinks that correlate with the titles of Techniques, Classes & Enquires and direct the user accordingly across the site
-- Includes a background image that covers this whole section, an image that leads nicely on from the above image that provides the inspirational quote
+- Includes a background image that covers this whole section, an image that leads nicely on from the above image providing the quote
+- This section is valable to the user as it
 
 
 ### Testimonial Section 
@@ -60,6 +66,7 @@ The site consists of three pages and sixteen features
 - Provides the user social proof relative to the meditation classes run by the Simply Meditation Wellness Centre (Left)
 - Includes an accompanying image of the individual providing the testimonial (Right)
 - Provides a design feature that runs across the site, promoting a good user experience
+- This section is valable to the user as it
 
 
 ### Newsletter Sign-Up Section
@@ -69,12 +76,17 @@ The site consists of three pages and sixteen features
 - Includes background image which continues to promote peace, calm and tranquility 
 - Form element is displayed as a transparent text overlay which partly covers the background image 
 - Sign Up Button is displayed as a bright pink colour to grab the attention of the user
+- This section is valuable to the user as it offers the user another way to receive information from Simply Meditation
 
 
 ### The Footer
+- Includes links to Simply Meditation's Facebook, Twitter and Instagram accounts
+- All links when clicked open in a new tab which allows for easy navigation
+- This section is valuable to the user as it directs the user towards further engagement with Simply Meditation via social media
 
 
 ### Meditation Classes Section
+- 
 
 
 ### Meditation Styles Section
