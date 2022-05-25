@@ -25,6 +25,7 @@ The site consists of three pages and sixteen features
 
 
 ### About Us Section
+- Featured on Homepage
 - Provides a short description about the Simply Meditation Wellness Centre (Left)
 - Promotes a welcome message to all, encouraging a warm sense of curiosity in the user
 - Includes an accompanying image which promotes meditation as something one can do with others (Right)
@@ -33,6 +34,7 @@ The site consists of three pages and sixteen features
 
 
 ### About Meditation Section
+- Featured on Homepage
 - Provides a short description about the benefits of meditation for one's overall health and wellbeing (Right)
 - Includes an accompanying image which points to the idea of achieving inner peace (Left)
 - Both text and image encourages the user to consider joining a meditation class to gain the benefits
@@ -40,12 +42,14 @@ The site consists of three pages and sixteen features
 
 
 ### Inspirational Quote Section
+- Featured on Homepage
 - Includes a royalty-free image which represents the nature of the site overall and the chosen quote
 - Image includes a text overlay with inspirational quote by Deepak Chopra, a prominent figure in the holistic health and wellness industry
 - Image and text overlay is in keeping with the main image on all three pages which creates a nice sense of aesthetic harmony
 
 
 ### Further Information Section
+- Featured on Homepage
 - Includes a little info about where the user can find out more information on the site about meditation techniques, classes and enquiries
 - Includes three hyperlinks that correlate with the titles of Techniques, Classes & Enquires and direct the user accordingly across the site
 - Includes a background image that covers this whole section, an image that leads nicely on from the above image that provides the inspirational quote
@@ -59,6 +63,12 @@ The site consists of three pages and sixteen features
 
 
 ### Newsletter Sign-Up Section
+- Featured on all three pages
+- Provides the user the opportunity to sign up to a newsletter to get the latest news and events from Simply Meditation
+- Includes form element which allows for the user to submit their email address
+- Includes background image which continues to promote peace, calm and tranquility 
+- Form element is displayed as a transparent text overlay which partly covers the background image 
+- Sign Up Button is displayed as a bright pink colour to grab the attention of the user
 
 
 ### The Footer
