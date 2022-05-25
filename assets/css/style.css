@@ -1400,6 +1400,14 @@ footer {
 
 /* simply contact section */
 
+#contact {
+    height: 900px;
+}
+
+#contact > div {
+    height: 300px;
+}
+
 /* find-us section */
 
 .map-responsive iframe {
@@ -1413,8 +1421,5 @@ footer {
     max-width: 260px;
     left: 0;
 }
-
-
-
 
 }
