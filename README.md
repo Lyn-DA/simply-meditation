@@ -23,6 +23,7 @@ The site consists of three pages and sixteen features
 - Introduces the user to each page with an eye-catching image designed to promote a state of peace and happiness
 - Includes a royalty-free image which represents the nature of the site as well as the page currently open
 - Each image includes a text overlay which highlights the nature of the site as well as the page currently open
+- This section is fully responsive, when viewed on smaller devices the text overlay adjusts to the left and the image resizes
 - This section is valable to the user as it
 
 
@@ -33,6 +34,7 @@ The site consists of three pages and sixteen features
 - Includes an accompanying image which promotes meditation as something one can do with others (Right)
 - This section underpins the idea of learning to meditate in a class setting
 - Provides a design feature that runs across the site, promoting a good user experience
+- This section is fully responsive, changing from horizontal to vertical when viewed on smaller devices
 - This section is valable to the user as it
 
 
@@ -42,6 +44,7 @@ The site consists of three pages and sixteen features
 - Includes an accompanying image which points to the idea of achieving inner peace (Left)
 - Both text and image encourages the user to consider joining a meditation class to gain the benefits
 - Provides a design feature that runs across the site, promoting a good user experience
+- This section is fully responsive, changing from horizontal to vertical when viewed on smaller devices
 - This section is valable to the user as it
 
 
@@ -50,6 +53,7 @@ The site consists of three pages and sixteen features
 - Includes a royalty-free image which represents the nature of the site overall and the chosen quote
 - Image includes a text overlay with inspirational quote by Deepak Chopra, a prominent figure in the holistic health and wellness industry
 - Image and text overlay is in keeping with the main image on all three pages which creates a nice sense of aesthetic harmony
+- This section is fully responsive, the image and overlay text adjusts in size when viewed on smaller devices
 - This section is valable to the user as it
 
 
@@ -58,6 +62,7 @@ The site consists of three pages and sixteen features
 - Includes a little info about where the user can find out more information on the site about meditation techniques, classes and enquiries
 - Includes three hyperlinks that correlate with the titles of Techniques, Classes & Enquires and direct the user accordingly across the site
 - Includes a background image that covers this whole section, an image that leads nicely on from the above image providing the quote
+- The overall section is fully responsive, when viewed on smaller devices it changes from four vertical sections to three horizontal sections
 - This section is valable to the user as it
 
 
@@ -66,6 +71,7 @@ The site consists of three pages and sixteen features
 - Provides the user social proof relative to the meditation classes run by the Simply Meditation Wellness Centre (Left)
 - Includes an accompanying image of the individual providing the testimonial (Right)
 - Provides a design feature that runs across the site, promoting a good user experience
+- This section is fully responsive, changing from horizontal to vertical when viewed on smaller devices
 - This section is valable to the user as it
 
 
@@ -76,20 +82,33 @@ The site consists of three pages and sixteen features
 - Includes background image which continues to promote peace, calm and tranquility 
 - Form element is displayed as a transparent text overlay which partly covers the background image 
 - Sign Up Button is displayed as a bright pink colour to grab the attention of the user
+- This section is full responsive, when viewed on smaller devices the text overlay adjusts accordingly and the image is resized
 - This section is valuable to the user as it offers the user another way to receive information from Simply Meditation
 
 
 ### The Footer
+- Featured on all three pages
 - Includes links to Simply Meditation's Facebook, Twitter and Instagram accounts
 - All links when clicked open in a new tab which allows for easy navigation
+- This section is responsive, when viewed on the smallest screen the footer reduces in size which creates better visual harmony
 - This section is valuable to the user as it directs the user towards further engagement with Simply Meditation via social media
 
 
 ### Meditation Classes Section
-- 
+- Featured on classes page
+- Provides the user with information regarding class schedule and is broken up into five sections for mon-fri
+- Provides info such as what type of meditation class, what is the cost to attend the class, what day of the week it's on and at what time
+- The overall section includes a background image of an artistic nature which is utilised again for the techniques section allowing for visual consistency
+- The overall section is fully responsive, when viewed on smaller devices it changes from five vertical sections to five horizontal sections
+- This section is valuable to the user as it provides vital information regarding pricing structure and class scheduling
 
 
 ### Meditation Styles Section
+- Featured on classes page
+- Provides the user with information regarding the three main meditation styles covered in class by Simply Meditation Wellness Centre
+- The overall section includes a background image of an artistic nature which was utilised already for the further information section on the homepage, allowing for visual consistency and a good user experience
+- The overall section is fully responsive, when viewed on smaller devices it changes from three vertical sections to three horizontal sections adjusted accordingly
+- This section is valuable to the user as it provides information regarding the different meditation styles and what the user can expect to learn from Simply Meditation
 
 
 ### Meditation Techniques Section
