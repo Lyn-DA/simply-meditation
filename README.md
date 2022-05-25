@@ -25,12 +25,20 @@ The site consists of three pages and sixteen features
 
 
 ### About Us Section
+- Provides a short description about the Simply Meditation Wellness Centre and promotes a welcome message to all, encouraging a sense of curiosity in the user
+- Includes an accompanying image which promotes meditation as something one can do with others, underpinning the idea of learning to meditate in a class setting
 
 
 ### About Meditation Section
+- Provides a short description about the benefits of meditation for one's overall health and wellbeing
+- Includes an accompanying image which points to the idea of inner peace
+- Both text and image will encourage the user to consider joining a meditation class to avail of the great many health benefits
 
 
 ### Inspirational Quote Section
+- Includes a royalty-free image which represents the nature of the site overall and the chosen quote
+- Image includes a text overlay with inspirational quote by Deepak Chopra, a prominent figure in the holistic health and wellness industry
+- Image and text overlay is in keeping with the main image on all three pages which creates a nice sense of aesthetic harmony
 
 
 ### Further Information Section
