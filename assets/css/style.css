@@ -96,6 +96,23 @@ h3, h4 {
     background: url('../images/hero-image.jpg') no-repeat center center;
 }
 
+.main-image-cover-text {
+    font-size: 230%;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(255, 84, 84, .5);
+
+    bottom: 30px;
+    left: 150px;
+
+    position: absolute;
+}
+
 /* feature: text-left | image-right */
 
 /* why us section */
@@ -725,6 +742,12 @@ footer {
     #menu li {
         margin-right: 35px;
     }
+
+/* main image cover text */
+
+.main-image-cover-text {
+    left: 0;
+}
 
 /* why-us and benefits section headings */
 
