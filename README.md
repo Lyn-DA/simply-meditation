@@ -155,3 +155,7 @@ The site consists of three pages and sixteen features
 - Send Message Button is displayed as a bright pink colour to grab the attention of the user
 - This section is full responsive, when viewed on smaller devices the text overlay adjusts accordingly and the image is resized
 - This section is valuable to the user as it offers the user a direct way to communicate with Simply Meditation
+
+## Features Left to Implement
+- Scheduling and Booking Feature, Gallery page, About Us page, Free Resources page
+
