@@ -25,14 +25,18 @@ The site consists of three pages and sixteen features
 
 
 ### About Us Section
-- Provides a short description about the Simply Meditation Wellness Centre and promotes a welcome message to all, encouraging a sense of curiosity in the user
-- Includes an accompanying image which promotes meditation as something one can do with others, underpinning the idea of learning to meditate in a class setting
+- Provides a short description about the Simply Meditation Wellness Centre (Left)
+- Promotes a welcome message to all, encouraging a warm sense of curiosity in the user
+- Includes an accompanying image which promotes meditation as something one can do with others (Right)
+- This section underpins the idea of learning to meditate in a class setting
+- Provides a design feature that runs across the site, promoting a good user experience
 
 
 ### About Meditation Section
-- Provides a short description about the benefits of meditation for one's overall health and wellbeing
-- Includes an accompanying image which points to the idea of inner peace
-- Both text and image will encourage the user to consider joining a meditation class to avail of the great many health benefits
+- Provides a short description about the benefits of meditation for one's overall health and wellbeing (Right)
+- Includes an accompanying image which points to the idea of achieving inner peace (Left)
+- Both text and image encourages the user to consider joining a meditation class to gain the benefits
+- Provides a design feature that runs across the site, promoting a good user experience
 
 
 ### Inspirational Quote Section
@@ -42,9 +46,16 @@ The site consists of three pages and sixteen features
 
 
 ### Further Information Section
+- Includes a little info about where the user can find out more information on the site about meditation techniques, classes and enquiries
+- Includes three hyperlinks that correlate with the titles of Techniques, Classes & Enquires and direct the user accordingly across the site
+- Includes a background image that covers this whole section, an image that leads nicely on from the above image that provides the inspirational quote
 
 
 ### Testimonial Section 
+- Featured on all three pages
+- Provides the user social proof relative to the meditation classes run by the Simply Meditation Wellness Centre (Left)
+- Includes an accompanying image of the individual providing the testimonial (Right)
+- Provides a design feature that runs across the site, promoting a good user experience
 
 
 ### Newsletter Sign-Up Section
