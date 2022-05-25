@@ -8,12 +8,20 @@ Simply Meditation is a website designed to promote a number of meditation classe
 [Live Webpage](https://lyn-da.github.io/simply-meditation/)
 
 ## Features
-The page consists of three pages and sixteen features
+The site consists of three pages and sixteen features
 
 ### Logo and Navigation Bar
+- Featured on all three pages
+- The navigation bar is fully responsive and identical on all three pages which allows for easy navigation
+- Includes links to the Logo, Homepage, Classes and Connect page
+- The current page is highlighted by an underline in the navigational menu
 
 
 ### Main Image
+- Featured on all three pages
+- Introduces the user to each page with an eye-catching image designed to promote a state of peace and happiness
+- Includes a royalty-free image which represents the nature of the site as well as the page currently open
+- Each image includes a text overlay which highlights the nature of the site as well as the page currently open
 
 
 ### About Us Section
