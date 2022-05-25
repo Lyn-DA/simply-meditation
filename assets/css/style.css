@@ -1261,6 +1261,44 @@ footer {
     height: 200px;
 }
 
+/* classes.html */
+
+/* meditation classes and techniques section */
+
+.simply-five-heading {
+    font-size: 250%;
+}
+.simply-five {
+    height: 1500px;
+}
+
+.simply-five > div {
+    height: 300px;
+}
+
+
+/* meditation styles section */
+
+#meditation-styles {
+    height: 900px;
+}
+
+#meditation-styles > div {
+    height: 300px;
+}
+
+#meditation-styles > div > p {
+    font-size: 80%;
+}
+
+#styles-heading {
+    font-size: 250%;
+}
+
+#meditation-styles h3 {
+    margin-top: 10px;
+}
+
 }
 
 /* for smaller again screen sizes from 330px wide and down */
