@@ -62,7 +62,7 @@ The site consists of three pages and sixteen features
 - Includes a little info about where the user can find out more information on the site regarding meditation techniques, classes and enquiries
 - Includes three hyperlinks that correlate with the titles: Techniques, Classes & Enquires, and directs the user accordingly across the site
 - Includes a background image that covers the whole section, an image that leads nicely on from the above image displaying the quote
-- The overall section is fully responsive, when viewed on smaller devices it changes from four vertical sections to three horizontal sections
+- The overall section is fully responsive, when viewed on smaller devices it changes from four vertical columns to three horizontal rows
 - This section is valable to the user as it provides direction regarding where to find out more information and how to make an enquiry
 
 
@@ -120,9 +120,20 @@ The site consists of three pages and sixteen features
 
 
 ### Simply Connect Section
+- Featured on connect page
+- Provides a little message about reaching out if the user has any questions (Left)
+- Includes an accompanying image which promotes making contact and connecting with the centre (Right)
+- Provides a design feature that runs across the site, promoting good user experience
+- This section is fully responsive, changing from horizontal to vertical when viewed on smaller devices
+- This section is valable to the user as it promotes the idea that the user is most welcome to connect
 
 
 ### Contact Information Section
+- Featured on connect page
+- Includes vital contact information: loaction, contact number and email address
+- Includes a background image that covers the whole section, a suggestive image regarding making contact
+- The overall section is fully responsive, when viewed on smaller devices it changes from four vertical columns to three horizontal rows
+- This section is valable to the user as it provides vital contact information
 
 
 ### Map Section
