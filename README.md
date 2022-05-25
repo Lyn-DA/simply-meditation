@@ -97,6 +97,7 @@ The site consists of three pages and sixteen features
 ### Meditation Classes Section
 - Featured on classes page
 - Provides the user with information regarding class schedule and is broken up into five sections for mon-fri
+- This section will be updated regularly as class days/times change
 - Provides info such as what type of meditation class, what is the cost to attend the class, what day of the week it's on and at what time
 - The overall section includes a background image of an artistic nature which is also utilised for the techniques section allowing for visual consistency
 - The overall section is fully responsive, when viewed on smaller devices it changes from five vertical columns to five horizontal rows
@@ -137,6 +138,20 @@ The site consists of three pages and sixteen features
 
 
 ### Map Section
+- Featured on connect page
+- Shows the location of the wellness centre on an embeded Google Map (Left)
+- Provides written directions to the location (Right)
+- Provides a design feature that runs across the site, promoting good user experience
+- This section is fully responsive, changing from horizontal to vertical when viewed on smaller devices
+- This section is valable to the user as it provides an actual location for the centre
 
 
 ### Send Message Form Section
+- Featured on connect page
+- Provides an opportunity for the user to ask a question or leave feedback directly from the site
+- Includes a form element which allows the user to submit their name, email address, contact number, and message to Simply Meditation
+- Includes background image which continues to promote peace, calm and tranquility 
+- Form element is displayed as a transparent text overlay which partly covers the background image 
+- Send Message Button is displayed as a bright pink colour to grab the attention of the user
+- This section is full responsive, when viewed on smaller devices the text overlay adjusts accordingly and the image is resized
+- This section is valuable to the user as it offers the user a direct way to communicate with Simply Meditation
