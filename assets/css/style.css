@@ -1374,6 +1374,30 @@ footer {
     font-size: 120%;
 }
 
+/* classes.html */
+
+#classes-main-image {
+    background-size: 900px;
+    height: 600px;
+    width: 350px;
+}
+
+/* meditation styles section */
+
+#meditation-styles {
+    height: 1200px;
+}
+
+#meditation-styles > div {
+    height: 400px;
+}
+
+#meditation-styles > div > p {
+    font-size: 90%;
+}
+
+
+
 
 
 }
