@@ -1260,6 +1260,14 @@ footer {
     height: 200px;
 }
 
+/* testimonial section */
+
+#laura-image-bg {
+    background-size: 400px;
+    height: 100%;
+    width: 100%;
+}
+
 /* classes.html */
 
 /* meditation classes and techniques section */
