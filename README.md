@@ -157,5 +157,23 @@ The site consists of three pages and sixteen features
 - This section is valuable to the user as it offers the user a direct way to communicate with Simply Meditation
 
 ## Features Left to Implement
-- Scheduling and Booking Feature, Gallery page, About Us page, Free Resources page
+- Scheduling and Booking, Gallery page, About Us page, Free Resources page
+
+## Testing
+
+### Validator Testing
+
+### Unfixed Bugs
+
+## Deployment
+
+## Credits
+
+### Content 
+
+### Media
+
+### Code
+
+### Acknowlegements
 
