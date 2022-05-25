@@ -1301,23 +1301,21 @@ footer {
 
 /* find-us section */
 
-/*.map-responsive {
-    overflow:hidden;
-    width: 400px;
-    height: 400px;
-    padding: 2px;
-    border-radius: 5%;
-    position: relative;
-}*/
-
 .map-responsive iframe {
-    /*left:0;
-    top:0;*/
     height: 100%;
     width: 72%;
-    /*position:absolute;*/
 }
 
+/* send message section */
+
+#contact-form {
+    /*margin: 50px 0;*/
+    max-width: 300px;
+    height: 90%;
+    /*position: relative;*/
+    left: 2.5%;
+    /*padding: 30px;*/
+}
 
 }
 
