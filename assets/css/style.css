@@ -795,20 +795,20 @@ footer {
 
 /* meditation styles section */
 
-#meditation-styles > div > p {
-    font-size: 100%;
-}
+    #meditation-styles > div > p {
+        font-size: 100%;
+    }
 
 /* simply contact section */
 
-#contact-heading {
-    font-size: 250%;
-}
+    #contact-heading {
+        font-size: 250%;
+    }
 
-.simply-three h3 {
-    font-size: 100%;
-    letter-spacing: normal;
-}
+    .simply-three h3 {
+        font-size: 100%;
+        letter-spacing: normal;
+    }
 
 }
 
@@ -892,56 +892,56 @@ footer {
 
 /* meditation classes and techniques section */
 
-.simply-five {
-    margin: 0 auto;
-    width: 100%;
-    height: 1000px;
-    overflow: hidden;
-}
+    .simply-five {
+        margin: 0 auto;
+        width: 100%;
+        height: 1000px;
+        overflow: hidden;
+    }
 
-.simply-five > div {
-    width: 100%;
-    clear: both;
-    height: 200px;
-    padding: 0%;
-}
+    .simply-five > div {
+        width: 100%;
+        clear: both;
+        height: 200px;
+        padding: 0%;
+    }
 
-.simply-five h3 {
-    margin-top: 10px;
-}
+    .simply-five h3 {
+        margin-top: 10px;
+    }
 
 /* meditation styles section */
 
-#meditation-styles > div > p {
-    font-size: 90%;
-}
+    #meditation-styles > div > p {
+        font-size: 90%;
+    }
 
 /* connect.html */
 
 /* simply contact section */
 
-#contact-heading {
-    font-size: 200%;
-}
+    #contact-heading {
+        font-size: 200%;
+    }
 
-.simply-three h3 {
-    font-size: 90%;
-    letter-spacing: normal;
-}
+    .simply-three h3 {
+        font-size: 90%;
+        letter-spacing: normal;
+    }
 
 }
 
 /* for small screen sizes from 800px wide and down */
 
 @media screen and (max-width: 800px) {
-
-    /* navigation menu */
+    
+/* navigation menu */
 
     #menu {
         float: right;
     }
 
-    /* why-us and benefits section */
+/* why-us and benefits section */
 
     .feature-left-heading, .feature-right-heading {
         padding: 30px 0;
@@ -960,7 +960,7 @@ footer {
         margin: 30px auto;
     }
 
-    /* why-us section */
+/* why-us section */
 
     .feature-left-column, .feature-right-column {
         width: 100%;
@@ -982,7 +982,7 @@ footer {
         font-size: 110%;
     }
 
-    /* benefits section */
+/* benefits section */
 
     .reverse-feature-left-column, .reverse-feature-right-column {
         width: 100%;
@@ -1074,56 +1074,56 @@ footer {
 
 /* meditation styles section */
 
-#meditation-styles {
-    margin: 0 auto;
-    width: 100%;
-    height: 600px;
-    overflow: hidden;
-}
+    #meditation-styles {
+        margin: 0 auto;
+        width: 100%;
+        height: 600px;
+        overflow: hidden;
+    }
 
-#meditation-styles > div {
-    width: 100%;
-    clear: both;
-    height: 200px;
-    padding: 0%;
-}
+    #meditation-styles > div {
+        width: 100%;
+        clear: both;
+        height: 200px;
+        padding: 0%;
+    }
 
-#meditation-styles > div > p {
-    padding: 5px;
-}
+    #meditation-styles > div > p {
+        padding: 5px;
+    }
 
 /* connect.html */
 
-#contact {
-    margin: 0 auto;
-    width: 100%;
-    height: 450px;
-    overflow: hidden;
-}
+    #contact {
+        margin: 0 auto;
+        width: 100%;
+        height: 450px;
+        overflow: hidden;
+    }
 
-#contact > div {
-    width: 100%;
-    clear: both;
-    height: 150px;
-    padding: 0%;
-}
+    #contact > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0%;
+    }
 
-#contact-heading {
-    display: none;
-}
+    #contact-heading {
+        display: none;
+    }
 
-#contact > div > p > br {
-    display: none;
-}
+    #contact > div > p > br {
+        display: none;
+    }
 
-#contact > div > h3 {
-    font-size: 100%;
-    top: 10%;
-}
+    #contact > div > h3 {
+        font-size: 100%;
+        top: 10%;
+    }
 
-#contact > div {
-    padding: 5px;
-}
+    #contact > div {
+        padding: 5px;
+    }
 
 }
 
@@ -1133,85 +1133,85 @@ footer {
 
 /* logo */
 
-#logo {
-    height: 150px;
-    width: 150%;
-    margin-left: 25px;
-}
+    #logo {
+        height: 150px;
+        width: 150%;
+        margin-left: 25px;
+    }
 
 /* navigation menu */
 
-#menu {
-    font-size: 100%;
-    margin-right: 60px;
-}
+    #menu {
+        font-size: 100%;
+        margin-right: 60px;
+    }
 
 /* why-us and benefits section */
 
-.feature-left-heading, .feature-right-heading {
-    font-size: 180%;
-}
+    .feature-left-heading, .feature-right-heading {
+        font-size: 180%;
+    }
 
 /* why-us section */
 
-.feature-left-text h3 {
-    font-size: 100%;
-}
+    .feature-left-text h3 {
+        font-size: 100%;
+    }
 
-.feature-left-text p {
-    font-size: 100%;
-}
+    .feature-left-text p {
+        font-size: 100%;
+    }
 
 /* benefits section */
 
-.feature-right-text h3 {
-    font-size: 100%;
-}
+    .feature-right-text h3 {
+        font-size: 100%;
+    }
 
-.feature-right-text p {
-    font-size: 100%;
-}
+    .feature-right-text p {
+        font-size: 100%;
+    }
 
 /* more info links section */
 
-#links {
-    height: 600px;
-}
+    #links {
+        height: 600px;
+    }
 
-#links > div {
-    height: 200px;
-}
+    #links > div {
+        height: 200px;
+    }
 
-.simply-three h2 {
-    font-size: 130%;
-    margin-top: 10px;
-}
+    .simply-three h2 {
+        font-size: 130%;
+        margin-top: 10px;
+    }
 
-.simply-three a {
-    font-size: 100%;
-}
+    .simply-three a {
+        font-size: 100%;
+    }
 
 /* class.html */
 
 /* meditation classes and techniques section */
 
-.simply-five-heading {
-    font-size: 200%;
-}
+    .simply-five-heading {
+        font-size: 200%;
+    }
 
-.simply-five > div > p {
-    font-size: 100%;
-}
+    .simply-five > div > p {
+        font-size: 100%;
+    }
 
 /* meditation styles section */
 
-#styles-heading {
-    font-size: 200%;
-}
+    #styles-heading {
+        font-size: 200%;
+    }
 
-#meditation-styles > div > p {
-    font-size: 85%;
-}
+    #meditation-styles > div > p {
+        font-size: 85%;
+    }
 
 }
 
@@ -1221,111 +1221,112 @@ footer {
 
 /* logo */
 
-.logo-image {
-    max-width: 65%;
-    margin-left: -20px;
-}
+    .logo-image {
+        max-width: 65%;
+        margin-left: -20px;
+    }
 
 /* nav menu */
 
-#menu {
-    font-size: 80%;
-    text-align: center;
-    margin: 0 auto;
-}
+    #menu {
+        font-size: 80%;
+        text-align: center;
+        margin: 0 auto;
+    }
 
 /* hero image */
 
-.hero-main {
-    background-size: 150px;
-    height: 550px;
-    width: 450px;
-}
+    .hero-main {
+        background-size: 150px;
+        height: 550px;
+        width: 450px;
+    }
 
 /* why-us section and benefits section */
 
-.feature-right-container {
-    width: 95%;
-    margin-bottom: 50px;
-}
+    .feature-right-container {
+        width: 95%;
+        margin-bottom: 50px;
+    }
 
-.feature-left-container {
-    width: 95%;
-}
+    .feature-left-container {
+        width: 95%;
+    }
 
-.feature-left-heading, .feature-right-heading {
-    font-size: 230%;
-}
+    .feature-left-heading, .feature-right-heading {
+        font-size: 230%;
+    }
 
-.feature-left-text h3 {
-    font-size: 150%;
-}
+    .feature-left-text h3 {
+        font-size: 150%;
+    }
 
-.feature-right-text h3 {
-    font-size: 150%;
-}
+    .feature-right-text h3 {
+        font-size: 150%;
+    }
 
 /* quote */
 
-#quote-image {
-    background-size: 700px;
-    height: 550px;
-    width: 450px;
-}
+    #quote-image {
+        background-size: 700px;
+        height: 550px;
+        width: 450px;
+    }
 
-#quote-text-overlay {
-    font-size: 80%;
-    text-align: center;
-    letter-spacing: 2px;
+    #quote-text-overlay {
+        font-size: 80%;
+        text-align: center;
+        letter-spacing: 2px;
         
-    width: 400px;
-    height: 200px;
-}
+        width: 400px;
+        height: 200px;
+    }
 
 /* testimonial section */
 
-#laura-image-bg {
-    background-size: 400px;
-    height: 100%;
-    width: 100%;
-}
+    #laura-image-bg {
+        background-size: 400px;
+        height: 100%;
+        width: 100%;
+    }
 
 /* classes.html */
 
 /* meditation classes and techniques section */
 
-.simply-five-heading {
-    font-size: 250%;
-}
-.simply-five {
-    height: 1500px;
-}
+    .simply-five-heading {
+        font-size: 250%;
+    }
 
-.simply-five > div {
-    height: 300px;
-}
+    .simply-five {
+        height: 1500px;
+    }
+
+    .simply-five > div {
+        height: 300px;
+    }
 
 /* meditation styles section */
 
-#meditation-styles {
-    height: 900px;
-}
+    #meditation-styles {
+        height: 900px;
+    }
 
-#meditation-styles > div {
-    height: 300px;
-}
+    #meditation-styles > div {
+        height: 300px;
+    }
 
-#meditation-styles > div > p {
-    font-size: 80%;
-}
+    #meditation-styles > div > p {
+        font-size: 80%;
+    }
 
-#styles-heading {
-    font-size: 250%;
-}
+    #styles-heading {
+        font-size: 250%;
+    }
 
-#meditation-styles h3 {
-    margin-top: 10px;
-}
+    #meditation-styles h3 {
+        margin-top: 10px;
+    }
 
 /* connect.html */
 
@@ -1338,11 +1339,11 @@ footer {
 
 /* send message section */
 
-#contact-form {
-    max-width: 300px;
-    height: 90%;
-    left: 2.5%;
-}
+    #contact-form {
+        max-width: 300px;
+        height: 90%;
+        left: 2.5%;
+    }
 
 }
 
@@ -1352,118 +1353,118 @@ footer {
 
 /* nav menu */
 
-#menu {
-    letter-spacing: normal;
-}
+    #menu {
+        letter-spacing: normal;
+    }
 
-/* main image cover text */
+    /* main image cover text */
 
-.main-image-cover-text {
-    text-align: center;
-}
+    .main-image-cover-text {
+        text-align: center;
+    }
 
 /* why-us and benefits section */
 
-.feature-left-heading, .feature-right-heading {
-    font-size: 180%;
-}
+    .feature-left-heading, .feature-right-heading {
+        font-size: 180%;
+    }
 
 /* quote */
 
-#quote-image {
-    background-size: 600px;
-    height: 550px;
-    width: 350px;
-}
+    #quote-image {
+        background-size: 600px;
+        height: 550px;
+        width: 350px;
+    }
 
-#quote-text-overlay {
-    font-size: 70%;
-    letter-spacing: normal;
+    #quote-text-overlay {
+        font-size: 70%;
+        letter-spacing: normal;
         
-    width: 300px;
-    height: 200px;
-}
+        width: 300px;
+        height: 200px;
+    }
 
 /* more info links section */
 
-#links {
-    height: 900px;
-}
+    #links {
+        height: 900px;
+    }
 
-#links > div {
-    height: 300px;
-}
+    #links > div {
+        height: 300px;
+    }
 
-.simply-three h2 {
-    font-size: 150%;
-    margin-top: 10px;
-}
+    .simply-three h2 {
+        font-size: 150%;
+        margin-top: 10px;
+    }
 
-.simply-three a {
-    font-size: 120%;
-}
+    .simply-three a {
+        font-size: 120%;
+    }
 
-.simply-three p {
-    font-size: 120%;
+    .simply-three p {
+        font-size: 120%;
 }
 
 /* newsletter sign-up */
 
-.newsletter-section {
-    background-size: 600px;
-}
+    .newsletter-section {
+        background-size: 600px;
+    }
 
-.signup-form {
-    max-width: 600px;
-    height: 75%;
-}
+    .signup-form {
+        max-width: 600px;
+        height: 75%;
+    }
 
 /* classes.html */
 
-#classes-main-image {
-    background-size: 900px;
-    height: 600px;
-    width: 350px;
-}
+    #classes-main-image {
+        background-size: 900px;
+        height: 600px;
+        width: 350px;
+    }
 
 /* meditation styles section */
 
-#meditation-styles {
-    height: 1200px;
-}
+    #meditation-styles {
+        height: 1200px;
+    }
 
-#meditation-styles > div {
-    height: 400px;
-}
+    #meditation-styles > div {
+        height: 400px;
+    }
 
-#meditation-styles > div > p {
-    font-size: 90%;
-}
+    #meditation-styles > div > p {
+        font-size: 90%;
+    }
 
 /* connect.html */
 
 /* simply contact section */
 
-#contact {
-    height: 900px;
-}
+    #contact {
+        height: 900px;
+    }
 
-#contact > div {
-    height: 300px;
-}
+    #contact > div {
+        height: 300px;
+    }
 
 /* find-us section */
 
-.map-responsive iframe {
-    height: 100%;
-    width: 60%;
-}
+    .map-responsive iframe {
+        height: 100%;
+        width: 60%;
+    }
 
 /* send message section */
 
-#contact-form {
-    max-width: 260px;
-    left: 0;
-}
+    #contact-form {
+        max-width: 260px;
+        left: 0;
+    }
 
 }
