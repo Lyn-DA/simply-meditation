@@ -1410,12 +1410,8 @@ footer {
 /* send message section */
 
 #contact-form {
-    /*margin: 50px 0;*/
-    max-width: 300px;
-    height: 90%;
-    /*position: relative;*/
-    left: 2.5%;
-    /*padding: 30px;*/
+    max-width: 260px;
+    left: 0;
 }
 
 
