@@ -445,7 +445,6 @@ footer {
     color: #f08056;
 }
 
-
 /* classes.html */
 
 /* classes main-image */
@@ -1276,7 +1275,6 @@ footer {
     height: 300px;
 }
 
-
 /* meditation styles section */
 
 #meditation-styles {
@@ -1298,6 +1296,28 @@ footer {
 #meditation-styles h3 {
     margin-top: 10px;
 }
+
+/* connect.html */
+
+/* find-us section */
+
+/*.map-responsive {
+    overflow:hidden;
+    width: 400px;
+    height: 400px;
+    padding: 2px;
+    border-radius: 5%;
+    position: relative;
+}*/
+
+.map-responsive iframe {
+    /*left:0;
+    top:0;*/
+    height: 100%;
+    width: 72%;
+    /*position:absolute;*/
+}
+
 
 }
 
