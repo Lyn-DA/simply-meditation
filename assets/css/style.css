@@ -107,8 +107,8 @@ h3, h4 {
 
     background-color: rgba(255, 84, 84, .5);
 
-    bottom: 400px;
-    left: 160px;
+    bottom: 600px;
+    left: 170px;
 
     position: relative;
 }
@@ -1354,6 +1354,12 @@ footer {
 
 #menu {
     letter-spacing: normal;
+}
+
+/* main image cover text */
+
+.main-image-cover-text {
+    text-align: center;
 }
 
 /* why-us and benefits section */
