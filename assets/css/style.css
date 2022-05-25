@@ -1176,6 +1176,10 @@ footer {
     font-size: 200%;
 }
 
+.simply-five > div > p {
+    font-size: 100%;
+}
+
 /* meditation styles section */
 
 #styles-heading {
