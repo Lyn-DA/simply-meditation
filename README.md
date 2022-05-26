@@ -72,6 +72,13 @@ The colour scheme is both warm in some instances and cool in others. This play b
 - Grandstander was chosen to play off the logo font-family which is not available as a free font. 
 - Quicksand was chosen for the body for accessibility reasons. 
 
+### Structure
+The website is structured in such a way that upon opening any of the pages, the user is immediately greeted with a familiar and user friendly structure including the business logo which is linked to homepage located on the top left, and an easy to navigate navigation bar located to the right of the logo.
+The website consists of three separate pages: 
+- A homepage with information about the business, general information about meditation, directions to find further information, a student testimonial, and a form to sign up to a newsletter, plus social media links
+- A classes page with information on class schedule, some basic information about meditation styles and techniques, another student testimonial, and a form to sign up to a newsletter, plus social media links
+- A connect page with a contact form to send enquiries directly to the business, directions and a map to business loaction, business contact information, another student testimonial, and a form to sign up to a newsletter, plus social media links
+
 
 
 ## Features
