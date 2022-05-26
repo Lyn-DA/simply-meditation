@@ -82,6 +82,8 @@ h3, h4 {
     border-bottom: 1px solid #927d70;
 }
 
+/* main */
+
 /* hero image */
 
 .hero-main {
@@ -95,6 +97,9 @@ h3, h4 {
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
 }
+
+/* main heading and transparent background colour overlaying main image */
+/* main image across all three pages */
 
 .main-image-cover-text {
     font-size: 230%;
@@ -113,9 +118,13 @@ h3, h4 {
     position: relative;
 }
 
-/* feature: text-left | image-right */
 
-/* why us section */
+
+/* design feature: text-left | image-right */
+
+/* about us section */  
+/* testimonial section - across all three pages */
+/* connect section - connect.html */
 
 .feature-left {
     height: 600px;
@@ -164,6 +173,8 @@ hr {
     text-align: left;
 }
 
+/* container for image-right */
+
 .feature-right-container {
     width: 400px;
     height: 400px;
@@ -175,7 +186,7 @@ hr {
     margin: 0 auto;
 }
 
-#why-us-image-bg {
+#about-us-image-bg {
     background: url('../images/why\ meditate\ with\ us.jpg') no-repeat center center;
     height: 100%;
     border-radius: 5%;
@@ -183,7 +194,8 @@ hr {
 
 /* feature: image-left | text-right */
 
-/* benefits section */
+/* about meditation section */
+/* map section - connect.html */
 
 .feature-right {
     height: 600px;
@@ -232,6 +244,8 @@ hr {
     text-align: right;
 }
 
+/* container for image-left */
+
 .feature-left-container {
     width: 400px;
     height: 400px;
@@ -243,7 +257,7 @@ hr {
     margin: 0 auto;
 }
 
-#benefits-image-bg {
+#about-meditation-image-bg {
     background: url('../images/benefits\ too.jpg') no-repeat center center;
     height: 100%;
     border-radius: 5%;
@@ -279,6 +293,8 @@ hr {
     background: url('../images/quote-image.jpg') no-repeat center center;
 }
 
+/* inspiration quote and transparent background colour overlaying image */
+
 #quote-text-overlay {
     font-size: 135%;
     text-align: center;
@@ -310,7 +326,7 @@ hr {
     font-weight: 300;
 }
 
-/* info / hyperlinks section */
+/* further information section */
 
 #links {
     background-image: url('../images/simply-three-bg-img.jpg');
@@ -331,6 +347,9 @@ hr {
     margin-left: 20px;
     margin-top: 30px;
 }
+
+/* further information section */
+/* contact information section - connect.html */
 
 .simply-three {
     color: rgb(22, 1, 3);
@@ -375,7 +394,7 @@ hr {
     border-radius: 5%;
 }
 
-/* newsletter form section */
+/* newsletter form section - across all three pages */
 
 .newsletter-section {
     clear: left;
@@ -437,7 +456,7 @@ hr {
     color: #ff5454;
 }
 
-/* footer content */
+/* footer content - across all three pages */
 
 footer {
     height: 150px;
@@ -472,7 +491,8 @@ footer {
     background: url('../images/classes\ new\ again.jpg') no-repeat center center;
 }
 
-/* meditation classes and techniques */
+/* meditation classes section */
+/* meditation techniques section */
 
 .simply-five-heading {
     font-size: 250%;
@@ -568,7 +588,7 @@ footer {
     text-align: justify;
 }
 
-/* classes testimonial section */
+/* testimonial section */
 
 #josephine-image-bg {
     background: url('../images/josephine-testmonial.jpg') no-repeat center center;
@@ -586,7 +606,7 @@ footer {
     background: url('../images/connect\ main\ image.jpg') no-repeat center center;
 }
 
-/* Let's connect section */
+/* connect section */
 
 #connect-image-bg {
     background: url('../images/lets-connect.jpg') no-repeat center center;
@@ -594,7 +614,7 @@ footer {
     border-radius: 5%;
 }
 
-/* simply contact section */
+/* contact information section */
 
 #contact {
     background-image: url('../images/connect\ image\ again.jpg');
@@ -624,7 +644,7 @@ footer {
     top: 30%;
 }
 
-/* find us section */
+/* map section */
 
 .map-responsive {
     overflow:hidden;
@@ -721,7 +741,7 @@ footer {
     color: #ff5454;
 }
 
-/* connect testimonial */
+/* testimonial */
 
 #rachel-image-bg {
     background: url('../images/rachel\ again\ testimonial.jpg') no-repeat center center;
