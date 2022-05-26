@@ -511,11 +511,6 @@ footer {
     overflow: hidden;
 }
 
-#meditation-classes h5 {
-    text-align: center;
-    font-size: 130%;
-}
-
 .simply-five div {
     color: #291b0e;
     background-color: rgba(146, 125, 112, .3);
@@ -526,6 +521,10 @@ footer {
     text-align: center;
     border: 1px solid white;
     box-sizing: border-box;
+}
+
+#meditation-classes h3 {
+    text-align: center;
 }
 
 .simply-five div h3 {
