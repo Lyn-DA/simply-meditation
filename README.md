@@ -7,6 +7,30 @@ Simply Meditation is a website designed to promote a number of meditation classe
 
 [Live Webpage](https://lyn-da.github.io/simply-meditation/)
 
+## Project Goals
+
+### User Goals
+- Finding meditation classes offered in Dublin city centre
+- See meditation class weekly schedule and pricing structure
+- Find some basic information about the meditation classes on offer
+- Find some basic information about meditation in general
+- Find details regarding location of meditation classes
+- Send message directly from site to enquire about meditation classes
+- Find contact information 
+
+### Site Owner Goals
+- Promote meditation classes in Dublin city centre
+- Increase numbers attending meditation classes
+- Provide a way for prospective students to communicate with the business
+- Provide essential information about the business
+- Provide information about meditation to new and returning users 
+
+## User Experience
+
+### Target Audience
+
+### User Requirements and Expectations
+
 ## Features
 The site consists of three pages and sixteen features
 
