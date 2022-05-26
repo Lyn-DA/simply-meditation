@@ -43,6 +43,24 @@ Simply Meditation is a website designed to promote a number of meditation classe
 - Simple content that the user can skim read
 - Accessibility
 
+## User Stories
+
+### First-time User
+- As a first-time user, I want to know what meditation classes are on offer
+- As a first-time user, I want to know how much it's going to cost me to attend a class
+- As a first-time user, I want to know the location where the classes are being held
+- As a first-time user, I want to know a little more about meditation 
+- As a first-time user, I want to know a little more about the business
+- As a first-time user, I want to send a message and enquire about attending a class
+
+### Returning User
+- As a returning user, I want to change my regular meditation class and try something new
+- As a returning user, I want to find the contact details of the business 
+- As a returning user, I want to connect with the business via social media
+- As a returning user, I want to get directions to the business to send to a friend
+
+
+
 ## Features
 The site consists of three pages and sixteen features
 
