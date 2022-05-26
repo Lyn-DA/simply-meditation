@@ -161,7 +161,7 @@ The site consists of three pages and sixteen features
 - This section is fully responsive, changing from horizontal to vertical when viewed on smaller devices
 - This section is valable to the user as it provides an actual location for the centre
 
-![Map](docs/features/map-section.JPGs)
+![Map](docs/features/map-section.JPG)
 
 ### Send Message Form Section
 - Featured on connect page
@@ -177,7 +177,7 @@ The site consists of three pages and sixteen features
 
 ## Features Left to Implement
 - Scheduling and Booking facility
-- ABout us page
+- About us page
 - Gallery page
 - Free Resources page
 - Thank you for your message page
