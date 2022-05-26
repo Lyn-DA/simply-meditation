@@ -185,17 +185,22 @@ The site consists of three pages and sixteen features
 
 ## Testing
 
-### Validator Testing
+## Validation
 
-### Unfixed Bugs
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All three pages pass with no errors no warnings to show.
+
+
+
+## Unfixed Bugs
 
 ## Deployment
 
 ## Credits
 
-### Content 
+## Content 
 
-### Media
+## Media
 
 ### Code
 
