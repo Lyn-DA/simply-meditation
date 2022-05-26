@@ -28,8 +28,20 @@ Simply Meditation is a website designed to promote a number of meditation classe
 ## User Experience
 
 ### Target Audience
+- Individuals who live in Dublin city or commuter distance
+- Individuals who wish to learn how to meditate
+- Individuals who wish to meditate within a group setting
+- Individuals who wish to deepen their meditation practice
+- Individuals who are just curious and seek some basic information about meditation
 
 ### User Requirements and Expectations
+- A simple and intuitive navigation system
+- To find relevant information quickly and easily
+- Links and functions that work as expected
+- Good presentation and a visually appealing responsive design
+- To be able to reach out and contact the business easily
+- Simple content that the user can skim read
+- Accessibility
 
 ## Features
 The site consists of three pages and sixteen features
