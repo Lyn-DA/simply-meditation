@@ -768,7 +768,7 @@ footer {
     left: 0;
 }
 
-/* why-us and benefits section headings */
+/* about-us and about-meditation section headings */
 
     .feature-left-text h3 {
         font-size: 95%;
@@ -788,7 +788,7 @@ footer {
         right: 30px;
     }
 
-/* more info links section */
+/* further info links section */
 
     #links {
         margin: 0 60px;
@@ -818,7 +818,7 @@ footer {
         font-size: 100%;
     }
 
-/* simply contact section */
+/* contact information section */
 
     #contact-heading {
         font-size: 250%;
@@ -851,7 +851,7 @@ footer {
             left: 0;
     }
 
-/* why-us and benefits section headings */
+/* about-us and about-meditation section headings */
 
     .feature-left-text h3 {
         font-size: 150%;
@@ -861,7 +861,7 @@ footer {
         font-size: 150%;
     }
 
-/* why-us and benefits section */
+/* about-us and about-meditation section */
 
     .feature-left {
         width: 90%;
@@ -883,7 +883,7 @@ footer {
         margin-left: 20px;
     }
 
-/* more info links section */
+/* further info links section */
 
     #links-heading {
         font-size: 130%;
@@ -937,7 +937,7 @@ footer {
 
 /* connect.html */
 
-/* simply contact section */
+/* contact information section */
 
     #contact-heading {
         font-size: 200%;
@@ -960,7 +960,7 @@ footer {
         float: right;
     }
 
-/* why-us and benefits section */
+/* about-us and about-meditation section */
 
     .feature-left-heading, .feature-right-heading {
         padding: 30px 0;
@@ -979,7 +979,7 @@ footer {
         margin: 30px auto;
     }
 
-/* why-us section */
+/* about-us section */
 
     .feature-left-column, .feature-right-column {
         width: 100%;
@@ -1001,7 +1001,7 @@ footer {
         font-size: 110%;
     }
 
-/* benefits section */
+/* about-meditation section */
 
     .reverse-feature-left-column, .reverse-feature-right-column {
         width: 100%;
@@ -1039,7 +1039,7 @@ footer {
         height: 150px;
     }
 
-/* more info links section */
+/* further info links section */
 
     #links {
         margin: 0 auto;
@@ -1113,6 +1113,8 @@ footer {
 
 /* connect.html */
 
+/* contact information section */
+
     #contact {
         margin: 0 auto;
         width: 100%;
@@ -1165,13 +1167,13 @@ footer {
         margin-right: 60px;
     }
 
-/* why-us and benefits section */
+/* about-us and about-meditation section */
 
     .feature-left-heading, .feature-right-heading {
         font-size: 180%;
     }
 
-/* why-us section */
+/* about-us section */
 
     .feature-left-text h3 {
         font-size: 100%;
@@ -1181,7 +1183,7 @@ footer {
         font-size: 100%;
     }
 
-/* benefits section */
+/* about-meditation section */
 
     .feature-right-text h3 {
         font-size: 100%;
@@ -1191,7 +1193,7 @@ footer {
         font-size: 100%;
     }
 
-/* more info links section */
+/* further info links section */
 
     #links {
         height: 600px;
@@ -1261,7 +1263,7 @@ footer {
         width: 450px;
     }
 
-/* why-us section and benefits section */
+/* about-us section and about-meditation section */
 
     .feature-right-container {
         width: 95%;
@@ -1368,7 +1370,7 @@ footer {
 
 /* for smaller again screen sizes from 320px wide and down */
 
-@media screen and (max-width: 330px) {
+@media screen and (max-width: 320px) {
 
 /* nav menu */
 
@@ -1382,7 +1384,7 @@ footer {
         text-align: center;
     }
 
-/* why-us and benefits section */
+/* about-us and about-meditation section */
 
     .feature-left-heading, .feature-right-heading {
         font-size: 180%;
@@ -1404,7 +1406,7 @@ footer {
         height: 200px;
     }
 
-/* more info links section */
+/* further info links section */
 
     #links {
         height: 900px;
@@ -1462,7 +1464,7 @@ footer {
 
 /* connect.html */
 
-/* simply contact section */
+/* contact information section */
 
     #contact {
         height: 900px;
@@ -1472,7 +1474,7 @@ footer {
         height: 300px;
     }
 
-/* find-us section */
+/* map section */
 
     .map-responsive iframe {
         height: 100%;
