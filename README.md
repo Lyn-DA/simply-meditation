@@ -190,7 +190,14 @@ The site consists of three pages and sixteen features
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All three pages pass with no errors no warnings to show.
 <details><summary>Home</summary>
-
+<img src="docs/validation/validation-html-index.JPG">
+</details>
+<details><summary>Classes</summary>
+<img src="docs/validation/validation-html-classes.JPG">
+</details>
+<details><summary>Connect</summary>
+<img src="docs/validation/validation-html-connect.JPG">
+</details>
 
 
 ## Unfixed Bugs
