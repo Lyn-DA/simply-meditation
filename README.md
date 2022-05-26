@@ -17,6 +17,7 @@ The site consists of three pages and sixteen features
 - The active page is highlighted by an underline in the navigation menu
 - This section is valable to the user as it allows the user to explore the site easily and without distraction
 
+![Logo and navbar](docs/features/logo-navbar.JPG)
 
 ### Main Image
 - Featured on all three pages
@@ -26,6 +27,7 @@ The site consists of three pages and sixteen features
 - This section is fully responsive; when viewed on smaller devices the text overlay adjusts to the left and the image resizes accordingly
 - This section is valable to the user as it provides a visual representation of how meditation can be incorporated into your life
 
+![Main image on homepage](docs/features/hero-image-homepage.JPG)
 
 ### About Us Section
 - Featured on Homepage
@@ -37,6 +39,7 @@ The site consists of three pages and sixteen features
 - This section is fully responsive, changing from horizontal to vertical when viewed on smaller devices
 - This section is valable to the user as it provides basic information that encourages a sense of familiarity and confidence
 
+![About us](docs/features/about-us-section.JPG)
 
 ### About Meditation Section
 - Featured on Homepage
