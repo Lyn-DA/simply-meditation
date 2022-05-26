@@ -79,6 +79,9 @@ The website consists of three separate pages:
 - A classes page with information on class schedule, some basic information about meditation styles and techniques, another student testimonial, and a form to sign up to a newsletter, plus social media links
 - A connect page with a contact form to send enquiries directly to the business, directions and a map to business loaction, business contact information, another student testimonial, and a form to sign up to a newsletter, plus social media links
 
+## Wireframes
+
+
 
 
 ## Features
