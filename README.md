@@ -80,7 +80,15 @@ The website consists of three separate pages:
 - A connect page with a contact form to send enquiries directly to the business, directions and a map to business loaction, business contact information, another student testimonial, and a form to sign up to a newsletter, plus social media links
 
 ## Wireframes
-
+<details><summary>Home</summary>
+<img src="docs/wireframes/wireframe-index-1.png">
+</details>
+<details><summary>Classes</summary>
+<img src="docs/wireframes/wireframe-classes-1.png">
+</details>
+<details><summary>Connect</summary>
+<img src="docs/wireframes/wireframe-connect-1.png">
+</details>
 
 
 
