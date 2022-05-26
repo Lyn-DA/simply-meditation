@@ -210,6 +210,12 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS of the websit
 ## Unfixed Bugs
 
 ## Deployment
+The website was deployed using GitHub Pages by following these steps:
+1. In the GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+3. For the source, select Branch: master
+4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display indicating successful deployment
+The live link can be found here - https://lyn-da.github.io/simply-meditation/
 
 ## Credits
 
