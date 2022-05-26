@@ -90,6 +90,20 @@ The website consists of three separate pages:
 <img src="docs/wireframes/wireframe-connect-1.png">
 </details>
 
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+- Git
+- GitHub
+- Gitpod
+- Balsamiq
+- Google Fonts
+- Font Awsome
+
 
 
 ## Features
