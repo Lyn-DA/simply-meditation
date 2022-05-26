@@ -28,6 +28,8 @@ The site consists of three pages and sixteen features
 - This section is valable to the user as it provides a visual representation of how meditation can be incorporated into your life
 
 ![Main image on homepage](docs/features/hero-image-homepage.JPG)
+![Main image on classes page](docs/features/classes-main-image.JPG)
+![Main image on connect page](docs/features/connect-main-image.JPG)
 
 ### About Us Section
 - Featured on Homepage
@@ -52,7 +54,6 @@ The site consists of three pages and sixteen features
 
 ![About meditation](docs/features/about-meditation-section.JPG)
 
-
 ### Inspirational Quote Section
 - Featured on Homepage
 - Includes an image which represents the nature of the site overall and the chosen quote
@@ -61,6 +62,7 @@ The site consists of three pages and sixteen features
 - This section is fully responsive, the image and overlay text adjusts in size when viewed on smaller devices
 - This section is valable to the user as it suggests an alignment between Simply Meditation and a wellknown figure such a Deepak Chopra
 
+![Inspiration Quote](docs/features/quote-section.JPG)
 
 ### Further Information Section
 - Featured on Homepage
@@ -70,6 +72,7 @@ The site consists of three pages and sixteen features
 - The overall section is fully responsive, when viewed on smaller devices it changes from four vertical columns to three horizontal rows
 - This section is valable to the user as it provides direction regarding where to find out more information and how to make an enquiry
 
+![Further information](docs/features/further-info-section.JPG)
 
 ### Testimonial Section 
 - Featured on all three pages
@@ -79,6 +82,7 @@ The site consists of three pages and sixteen features
 - This section is fully responsive, changing from horizontal to vertical when viewed on smaller devices
 - This section is valable to the user as it provides social proof, an invaluable asset to any business
 
+![Testimonial](docs/features/testimonial-section.JPG)
 
 ### Newsletter Sign-Up Section
 - Featured on all three pages
@@ -90,6 +94,7 @@ The site consists of three pages and sixteen features
 - This section is full responsive, when viewed on smaller devices the text overlay adjusts accordingly and the image is resized
 - This section is valuable to the user as it offers the user yet another way to receive information from Simply Meditation
 
+![Newsletter](docs/features/newsletter.jpg)
 
 ### The Footer
 - Featured on all three pages
@@ -98,6 +103,7 @@ The site consists of three pages and sixteen features
 - This section is responsive, when viewed on the smallest viewport the footer reduces in size which creates better visual harmony
 - This section is valuable to the user as it directs the user towards further engagement with Simply Meditation via social media
 
+![Footer](docs/features/footer-section.JPG)
 
 ### Meditation Classes Section
 - Featured on classes page
@@ -108,6 +114,7 @@ The site consists of three pages and sixteen features
 - The overall section is fully responsive, when viewed on smaller devices it changes from five vertical columns to five horizontal rows
 - This section is valuable to the user as it provides vital information regarding pricing structure and class scheduling
 
+![Meditation Classes](docs/features/meditation-classes-section.JPG)
 
 ### Meditation Styles Section
 - Featured on classes page
@@ -116,6 +123,7 @@ The site consists of three pages and sixteen features
 - The overall section is fully responsive, when viewed on smaller devices it changes from three vertical columns to three horizontal rows
 - This section is valuable to the user as it provides information regarding the different meditation styles and what the user can expect to learn
 
+![Meditation Styles](docs/features/meditation-styles-section.JPG)
 
 ### Meditation Techniques Section
 - Featured on classes page
@@ -124,6 +132,7 @@ The site consists of three pages and sixteen features
 - The overall section is fully responsive, when viewed on smaller devices it changes from five vertical columns to five horizontal rows
 - This section is valuable to the user as it provides more information regarding different meditation techniques one can expect to learn
 
+![Meditation Techniques](docs/features/meditation-techniques-section.JPG)
 
 ### Simply Connect Section
 - Featured on connect page
@@ -133,6 +142,7 @@ The site consists of three pages and sixteen features
 - This section is fully responsive, changing from horizontal to vertical when viewed on smaller devices
 - This section is valable to the user as it promotes the idea that the user is most welcome to connect
 
+![Connect](docs/features/connect-section.JPG)
 
 ### Contact Information Section
 - Featured on connect page
@@ -141,6 +151,7 @@ The site consists of three pages and sixteen features
 - The overall section is fully responsive, when viewed on smaller devices it changes from four vertical columns to three horizontal rows
 - This section is valable to the user as it provides vital contact information
 
+![Contact Information](docs/features/contact-information-section.JPG)
 
 ### Map Section
 - Featured on connect page
@@ -150,6 +161,7 @@ The site consists of three pages and sixteen features
 - This section is fully responsive, changing from horizontal to vertical when viewed on smaller devices
 - This section is valable to the user as it provides an actual location for the centre
 
+![Map](docs/features/map-section.JPGs)
 
 ### Send Message Form Section
 - Featured on connect page
@@ -160,6 +172,8 @@ The site consists of three pages and sixteen features
 - Send Message Button is displayed as a bright pink colour to grab the attention of the user
 - This section is full responsive, when viewed on smaller devices the text overlay adjusts accordingly and the image is resized
 - This section is valuable to the user as it offers the user a direct way to communicate with Simply Meditation
+
+![Send Message](docs/features/send-message-section.JPG)
 
 ## Features Left to Implement
 - Scheduling and Booking facility
