@@ -67,6 +67,11 @@ The website was designed to promote feelings of calm, peace, tranquility as well
 ### Colour
 The colour scheme is both warm in some instances and cool in others. This play between both ends of the spectrum promotes a feeling of balance between warm and cool energies, which encourages an overall sense of peace and calm. The underlining message suggests that practicing meditation balances mind, body and soul.
 
+### Fonts
+- Quicksand was used for the body and Grandstander for headings.
+- Grandstander was chosen to play off the logo font-family which is not available as a free font. 
+- Quicksand was chosen for the body for accessibility reasons. 
+
 
 
 ## Features
