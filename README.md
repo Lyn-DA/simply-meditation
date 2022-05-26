@@ -91,7 +91,7 @@ Simply Meditation is a website designed to promote a number of meditation classe
 ## Design
 
 ### Design Choices
-The website was designed to promote feelings of calm, peace, tranquility as well as togetherness. The overall look and feel of the site promotes the benefits of meditation on an individual level and on a social level. The images used and the visual space provided on the site promote expansion and balance.
+The website was designed to promote feelings of calm, peace, tranquility as well as togetherness. The overall look and feel of the site promotes the benefits of meditation on an individual level and on a social level. The images used and the visual space provided on the site promote the idea of expansion and balance.
 
 ### Colour
 The colour scheme is both warm in some instances and cool in others. This play between both ends of the spectrum promotes a feeling of balance between warm and cool energies, which encourages an overall sense of peace and calm. The underlining message suggests that practicing meditation balances mind, body and soul.
