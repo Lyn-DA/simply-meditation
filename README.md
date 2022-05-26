@@ -7,6 +7,35 @@ Simply Meditation is a website designed to promote a number of meditation classe
 
 [Live Webpage](https://lyn-da.github.io/simply-meditation/)
 
+## Table of Content
+
+1. [Project Goals](#project-goals)
+    1. [User Goals](#user-goals)
+    2. [Site Owner Goals](#site-owner-goals)
+2. [User Experience](#user-experience)
+    1. [Target Audience](#target-audience)
+    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    3. [User Stories](#user-stories)
+3. [Design](#design)
+    1. [Design Choices](#design-choices)
+    2. [Colour](#colours)
+    3. [Fonts](#fonts)
+    4. [Structure](#structure)
+    5. [Wireframes](#wireframes)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Frameworks & Tools](#frameworks-&-tools)
+5. [Features](#features)
+6. [Testing](#validation)
+    1. [HTML Validation](#HTML-validation)
+    2. [CSS Validation](#CSS-validation)
+    3. [Accessibility](#accessibility)
+    4. [Testing user stories](#testing-user-stories)
+8. [Bugs](#Bugs)
+9. [Deployment](#deployment)
+10. [Credits](#credits)
+11. [Acknowledgements](#acknowledgements)
+
 ## Project Goals
 
 ### User Goals
@@ -103,8 +132,6 @@ The website consists of three separate pages:
 - Balsamiq
 - Google Fonts
 - Font Awsome
-
-
 
 ## Features
 The site consists of three pages and sixteen features
@@ -282,8 +309,6 @@ The site consists of three pages and sixteen features
 - Thank you for your message page
 - Customised error 404 page
 
-## Testing
-
 ## Validation
 
 ### HTML Validation
@@ -304,9 +329,12 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS of the websit
 <img src="docs/validation/validation-css.JPG">
 </details>
 
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with little to no errors.
 
+### Testing user stories
 
-## Unfixed Bugs
+## Bugs
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
@@ -318,11 +346,11 @@ The live link can be found here - https://lyn-da.github.io/simply-meditation/
 
 ## Credits
 
-## Content 
+### Content 
 
-## Media
+### Media
 
 ### Code
 
-### Acknowlegements
+## Acknowlegements
 
