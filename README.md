@@ -31,7 +31,7 @@ Simply Meditation is a website designed to promote a number of meditation classe
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
     4. [Testing user stories](#testing-user-stories)
-8. [Unfixed Bugs](#unfixed-bugs)
+8. [Bugs](#bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
@@ -530,7 +530,10 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 </details>
 
 
-## Unfixed Bugs
+## Bugs
+
+### Unfixed Bugs
+No unfixed bugs
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
@@ -541,12 +544,23 @@ The website was deployed using GitHub Pages by following these steps:
 The live link can be found here - https://lyn-da.github.io/simply-meditation/
 
 ## Credits
-
-### Content 
+Any content not referenced below was either written by and/or owned by the developer
 
 ### Media
+- The look and design for the project was inspired by https://meditateinireland.com/
+- The images used throughout the site are royalty-free images taken from https://www.pexels.com/
+- The content regarding meditation styles is taken from Mind Body Education course notes, a course which I have completed and used to teach
+- The content regarding meditation techniques, Body Scan, has been taken from https://mindful.stanford.edu/additional-resources/self-care/body-scan-meditation/
+- The content regarding meditation techniques, Zen Meditation, has been taken from https://www.verywellmind.com/what-is-zen-meditation-4586721
+The content regarding meditation techniques, Mindfulness, has been taken from https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/mindfulness-exercises/
+- The content regarding meditation techniques, Mantra Meditation, has been taken from https://iskcondwarka.org/blogs/mantra-meditation/
+- The content regarding meditation techniques, Trataka Meditation, has been taken from https://www.samadhi-yoga.co.uk/post/trataka-candle-gazing-meditation
+- The content regarding testimonials has been written by me and/or adapted from my own meditation student testimonials
+- The content regarding directions has been taken directly from Dublin Wellness Centre, a business which is no longer in operation
+- The content making up the About Us, About Meditation and Connect Sections has been taken from https://meditateinireland.com/
 
 ### Code
+- The HTML and CSS used to create this website has been taken from and/or modified from the Love Running Project
 
 ## Acknowlegements
 
