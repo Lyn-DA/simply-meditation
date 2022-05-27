@@ -81,12 +81,14 @@ Simply Meditation is a website designed to promote a number of meditation classe
 - As a first-time user, I want to know a little more about meditation 
 - As a first-time user, I want to know a little more about the business
 - As a first-time user, I want to send a message and enquire about attending a class
+- As a first-time user, I want to hear what other people have to say about the business
 
 ### Returning User
 - As a returning user, I want to change my regular meditation class and try something new
 - As a returning user, I want to find the contact details of the business 
 - As a returning user, I want to connect with the business via social media
 - As a returning user, I want to get directions to the business to send to a friend
+- As a returning user, I want to hear first all about the latest news and events
 
 ## Design
 
@@ -386,7 +388,125 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <img src="docs/testing-user-story/user-story-4-more-info-meditation.jpg">
 </details>
 
+5. As a first-time user, I want to know a little more about the business
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home | Navigate to Home Page, Scroll Down | Locate Business Intro | Works as expected |
+
+
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-5-click-home2.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-5-about-us-home.jpg">
+</details>
+
+6. As a first-time user, I want to send a message and enquire about attending a class
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Connect | Navigate to Connect Page, Scroll Down | Locate Contact Form | Works as expected |
+
+
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-6-click-connect2.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-6-send-message-connect2.jpg">
+</details>
+
+7. As a first-time user, I want to hear what other people have to say about the business
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home | Navigate to Home Page, Scroll Down | Locate Testimonial | Works as expected |
+| Classes | Navigate to Classes Page, Scroll Down | Locate Testimonial | Works as expected |
+| Connect | Navigate to Connect Page, Scroll Down | Locate Testimonial | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-1-click-home2.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-1-click-classes.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-1-click-connect2.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-home-testimonial2.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-classes-testimonial2.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-connect-testimonial2.jpg">
+</details>
+
+8. As a returning user, I want to change my regular meditation class and try something new
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Classes | Navigate to Classes Page, Scroll Down | Locate Schedule | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-1-click-classes.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-1-scroll-down-classes.jpg">
+</details>
+
+9. As a returning user, I want to find the contact details of the business 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Connect | Navigate to Connect Page, Scroll Down | Locate Contact Information | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-3-navbar-click-connect2.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-8-scroll-down-contact-info.jpg">
+</details>
+
+10. As a returning user, I want to connect with the business via social media
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Connect | Navigate to Connect Page, Scroll Down | Locate Social Media Links in Footer | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-3-navbar-click-connect2.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/returning-user-social-media2.jpg">
+</details>
+
+11. As a returning user, I want to get directions to the business to send to a friend
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Connect | Navigate to Connect Page, Scroll Down | Locate Directions and Map | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-3-navbar-click-connect2.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/returning-user-directions-map2.jpg">
+</details>
+
+12. As a returning user, I want to hear first all about the latest news and events
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home | Navigate to Home Page, Scroll Down | Locate Newsletter Signup | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-5-click-home2.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-newsletter2.jpg">
+</details>
 
 
 ## Unfixed Bugs
