@@ -31,7 +31,7 @@ Simply Meditation is a website designed to promote a number of meditation classe
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
     4. [Testing user stories](#testing-user-stories)
-8. [Bugs](#Bugs)
+8. [Unfixed Bugs](#unfixed-bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
@@ -334,7 +334,18 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 
 ### Testing user stories
 
-## Bugs
+1. As a first-time user, I want to know what meditation classes are on offer
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Classes | Navigate to Classes Page, Scroll Down to Classes Schedule | Locate Schedule | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-1-click-classes.JPG">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-1-scroll-down-classes.JPG">
+</details>
+
+## Unfixed Bugs
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
