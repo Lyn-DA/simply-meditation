@@ -335,15 +335,59 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 ### Testing user stories
 
 1. As a first-time user, I want to know what meditation classes are on offer
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Classes | Navigate to Classes Page, Scroll Down to Classes Schedule | Locate Schedule | Works as expected |
+| Classes | Navigate to Classes Page, Scroll Down | Locate Schedule | Works as expected |
+
 <details><summary>Screenshots</summary>
-<img src="docs/testing-user-story/user-story-1-click-classes.JPG">
+<img src="docs/testing-user-story/user-story-1-click-classes.jpg">
 </details>
 <details><summary>Screenshots</summary>
-<img src="docs/testing-user-story/user-story-1-scroll-down-classes.JPG">
+<img src="docs/testing-user-story/user-story-1-scroll-down-classes.jpg">
 </details>
+
+2. As a first-time user, I want to know how much it's going to cost me to attend a class
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Classes | Navigate to Classes Page, Scroll Down | Locate Price | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-1-click-classes.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-1-scroll-down-classes.jpg">
+</details>
+
+3. As a first-time user, I want to know the location where the classes are being held
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Connect | Navigate to Connect Page, Scroll Down | Find Location | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-3-navbar-click-connect2.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-3-scroll-down-location2.jpg">
+</details>
+
+4. As a first-time user, I want to know a little more about meditation 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Classes | Navigate to Classes Page, Scroll Down | Locate Information | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-1-click-classes.jpg">
+</details>
+<details><summary>Screenshots</summary>
+<img src="docs/testing-user-story/user-story-4-more-info-meditation.jpg">
+</details>
+
+
+
 
 ## Unfixed Bugs
 
