@@ -563,4 +563,8 @@ The content regarding meditation techniques, Mindfulness, has been taken from ht
 - The HTML and CSS used to create this website has been taken from and/or modified from the Love Running Project
 
 ## Acknowlegements
+I would like to take the opportunity to thank:
+- My mentor Mo Shami for his feedback, advice, guidance and support.
+- My partner Aldo for his support, advice, and help with testing.
+- To the lovely people on the Code Institute Slack.
 
