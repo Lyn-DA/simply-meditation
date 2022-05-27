@@ -532,8 +532,12 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 
 ## Bugs
 
+### Solved Bugs
+- When I deployed my project to GitHub Pages, I discovered that the footer element on the Connect Page was broken. The social media links had jumped up the page to below the testimonial and above the newsletter. The footer on the other two pages was displaying correctly. I thought it must have been a CSS issue. It wasn't and this had me perplexed for a while. However, when I went to validate my HTML Code, and corrected one error that showed up on the Connect Page with regards a section element #id, this fixed the problem. 
+- When I deployed my project to GitHub Pages, I discovered that the overlay text containing the h1 heading was not displaying as intended over the main image when viewed on desktop screen. I had to change the positioning from absolute to relative and increase the margin-left so as to push the overlay text more towards the centre of the image which solved the proble.
+
 ### Unfixed Bugs
-No unfixed bugs
+- Accesibility error continues to show regarding not enough contrast between background colour and text-input elements on newsletter form across all three pages and contact form on connect page plus heading on contact information section on connect page. I have tried to darken the background which did not resolve the issue. So I changed it back because I like the look and feel of the more transparent background. I even changed the colour of the text-input font from white to black but this did not resolve the issue either. This is something I still need to work on.
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
@@ -560,7 +564,7 @@ The content regarding meditation techniques, Mindfulness, has been taken from ht
 - The content making up the About Us, About Meditation and Connect Sections has been taken from https://meditateinireland.com/
 
 ### Code
-- The HTML and CSS used to create this website has been taken from and/or modified from the Love Running Project
+- The HTML and CSS used to create this website has been taken from and/or modified from the Code Institute Love Running Project.
 
 ## Acknowlegements
 I would like to take the opportunity to thank:
